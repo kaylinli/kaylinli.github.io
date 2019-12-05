@@ -48,6 +48,6 @@ I love STEM, but I love the humanities a lot too! Check out some of the stuff I'
 
   <body>
     <div id="rss_feed" 
-         data-feed="http://feeds.labnol.org/labnol" 
+         data-feed="https://lhsepic.com" 
          data-count="12">Loading RSS Feed..</div>
   </body>
