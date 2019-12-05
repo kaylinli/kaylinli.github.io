@@ -23,10 +23,30 @@
     <a id="skip-to-content" href="#content">Skip to the content.</a>
 
     <header class="page-header" role="banner">
-    
+      
+      <!-- Navigation -->
+      <div class="b-nav">
+        <li><a class="b-link b-link--active" href="#">Home</a></li>
+        <li><a class="b-link" href="#">About</a></li>
+        <li><a class="b-link" href="#">Portfolio</a></li>
+        <li><a class="b-link" href="#">Contact</a></li>
+      </div>
+
+      <!-- Burger-Icon -->
+      <div class="b-container">
+        <div class="b-menu">
+          <div class="b-bun b-bun--top"></div>
+          <div class="b-bun b-bun--mid"></div>
+          <div class="b-bun b-bun--bottom"></div>
+        </div>
+
+        <!-- Burger-Brand -->
+        <a href="#" class="b-brand">Burger</a>
+      </div>
+      
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">Hello! I'm Kaylin.</h2>
-      <! –– <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -- >
+      <!–– <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2> -->
       <a href="https://kaylinli.github.io/journalism" class="btn">Journalism</a>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
