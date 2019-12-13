@@ -7,7 +7,7 @@ permalink: /journalism/
 	.entry{
 		width:500px;
 		background-color: #FAFAFA;
-		border: 10px;
+		padding: 10px;
 	}
 	
 	.headline{
