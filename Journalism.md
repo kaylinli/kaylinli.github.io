@@ -20,7 +20,7 @@ I love STEM, but I love the humanities a lot too! Check out some of the stuff I'
 Respect Marie Kondo’s Japanese culture</a><br />
 Mar. 1, 2019</p>
 
-<p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/>Governor Newsom establishes goals for the new year</a><br />
+<p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/">Governor Newsom establishes goals for the new year</a><br />
 Feb. 1, 2019</p>
 
 <p class="entry"><a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
