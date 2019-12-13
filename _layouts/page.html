@@ -25,7 +25,7 @@
     <header class="page-header" role="banner">
       
       <h2 class="project-tagline">{{ site.description | default: site.github.project_tagline }}</h2>
-	  <h1 class="project-tagline">{{ page.title | default: site.description | default: site.github.project_tagline }}</h1>
+	  <h1 class="project-name">{{ page.title | default: site.description | default: site.github.project_tagline }}</h1>
       <a href="https://kaylinli.github.io/" class="btn">main page</a>
 	  <a href="https://kaylinli.github.io/writing" class="btn">writing</a>
       {% if site.github.is_project_page %}
