@@ -3,6 +3,9 @@ layout: page
 title: "Journalism"
 permalink: /journalism/
 ---
+.entry{
+	width:140px;
+}
 <h2>Journalism</h2>
 I love STEM, but I love the humanities a lot too! Check out some of the stuff I've done for Lynbrook High School's newspaper, the Epic!
 <a href="lhsepic.com">lhsepic.com</a>
@@ -11,14 +14,14 @@ I love STEM, but I love the humanities a lot too! Check out some of the stuff I'
 
 2018-2019 School Year
 
-<a href="https://lhsepic.com/4723/opinion/4723/"><img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
+<p class="entry"><a href="https://lhsepic.com/4723/opinion/4723/"><img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
 Respect Marie Kondo’s Japanese culture</a><br />
-Mar. 1, 2019
+Mar. 1, 2019</p>
 
-<a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/
->Governor Newsom establishes goals for the new year</a><br />
-Feb. 1, 2019
+<p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/>
+Governor Newsom establishes goals for the new year</a><br />
+Feb. 1, 2019</p>
 
-<a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
+<p class="entry"><a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
 New California bill combats recent wildfires</a><br />
-Oct. 5, 2018
+Oct. 5, 2018</p>
