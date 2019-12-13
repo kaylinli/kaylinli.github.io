@@ -6,7 +6,13 @@ permalink: /journalism/
 <style>
 	.entry{
 		width:500px;
+		background-color: grey;
 	}
+	
+	.headline{
+		font-size: 20px;
+	}
+	
 </style>
 <h2>Journalism</h2>
 I love STEM, but I love the humanities a lot too! Check out some of the stuff I've done for Lynbrook High School's newspaper, the Epic!
@@ -23,16 +29,17 @@ I love STEM, but I love the humanities a lot too! Check out some of the stuff I'
 <br />
 
 <p class="entry"><a href="https://lhsepic.com/4723/opinion/4723/"><img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
-Respect Marie Kondo’s Japanese culture</a><br />
+<span class="headline">Respect Marie Kondo’s Japanese culture</span></a><br />
 Mar. 1, 2019</p>
 
 <br />
 
-<p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/">Governor Newsom establishes goals for the new year</a><br />
+<p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/"><span class="headline">
+Governor Newsom establishes goals for the new year</span></a><br />
 Feb. 1, 2019</p>
 
 <br />
 
 <p class="entry"><a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
-New California bill combats recent wildfires</a><br />
+<span class="headline">New California bill combats recent wildfires</span></a><br />
 Oct. 5, 2018</p>
