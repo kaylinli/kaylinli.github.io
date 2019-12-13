@@ -14,6 +14,10 @@ permalink: /journalism/
 		font-size: 20px;
 	}
 	
+	.date{
+		font-size: 10px;
+	|
+	
 </style>
 <h2>Journalism</h2>
 Check out some of the work I've done for Lynbrook High School's newspaper, the Epic!
@@ -31,16 +35,16 @@ Check out some of the work I've done for Lynbrook High School's newspaper, the E
 
 <p class="entry"><a href="https://lhsepic.com/4723/opinion/4723/"><img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
 <span class="headline">Respect Marie Kondo’s Japanese culture</span></a><br />
-Mar. 1, 2019</p>
+<span class="date">Mar. 1, 2019</span></p>
 
 <br />
 
 <p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/"><span class="headline">
 Governor Newsom establishes goals for the new year</span></a><br />
-Feb. 1, 2019</p>
+<span class="date">Feb. 1, 2019</span></p>
 
 <br />
 
 <p class="entry"><a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
 <span class="headline">New California bill combats recent wildfires</span></a><br />
-Oct. 5, 2018</p>
+<span class="date">Oct. 5, 2018</span></p>
