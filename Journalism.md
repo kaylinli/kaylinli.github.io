@@ -5,7 +5,7 @@ permalink: /journalism/
 ---
 <style>
 	.entry{
-		width:140px;
+		width:500px;
 	}
 </style>
 <h2>Journalism</h2>
