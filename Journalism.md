@@ -6,7 +6,8 @@ permalink: /journalism/
 <style>
 	.entry{
 		width:500px;
-		background-color: grey;
+		background-color: #808080;
+		border: 5px;
 	}
 	
 	.headline{
