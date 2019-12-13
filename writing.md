@@ -10,11 +10,11 @@ permalink: /writing/
 		padding: 10px;
 	}
 	
-	.headline{
+	[type='headline]{
 		font-size: 20px;
 	}
 	
-	.date{
+	[type='date']{
 		font-size: 10px;
 	}
 	
@@ -31,17 +31,17 @@ permalink: /writing/
 <br />
 
 <p class="entry"><a href="https://lhsepic.com/4723/opinion/4723/"><img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
-<span class="headline">Respect Marie Kondo’s Japanese culture</span></a><br />
-<span class="date">Mar. 1, 2019</span></p>
+<span type="headline">Respect Marie Kondo’s Japanese culture</span></a><br />
+<span type="date">Mar. 1, 2019</span></p>
 
 <br />
 
-<p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/"><span class="headline">
-Governor Newsom establishes goals for the new year</span></a><br />
-<span class="date">Feb. 1, 2019</span></p>
+<p class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/">
+<span type="headline">Governor Newsom establishes goals for the new year</span></a><br />
+<span type="date">Feb. 1, 2019</span></p>
 
 <br />
 
 <p class="entry"><a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
-<span class="headline">New California bill combats recent wildfires</span></a><br />
-<span class="date">Oct. 5, 2018</span></p>
+<span type="headline">New California bill combats recent wildfires</span></a><br />
+<span type="date">Oct. 5, 2018</span></p>
