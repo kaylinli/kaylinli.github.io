@@ -14,6 +14,8 @@ I love STEM, but I love the humanities a lot too! Check out some of the stuff I'
 
 <h3>Writing</h3>
 
+<p>*Note: the graphics in this section are not made by me.*</p>
+
 2018-2019 School Year
 
 <p class="entry"><a href="https://lhsepic.com/4723/opinion/4723/"><img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
