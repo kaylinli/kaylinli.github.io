@@ -10,6 +10,6 @@ I love STEM, but I love the humanities a lot too! Check out some of the stuff I'
 <h3>Writing</h3>
 
 2018-2019 School Year
-<img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif"><a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"></a></img>
+<a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif"></a>
 New California bill combats recent wildfires
 October 5, 2018
