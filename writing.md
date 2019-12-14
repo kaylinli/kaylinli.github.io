@@ -23,6 +23,8 @@ permalink: /writing/
 	
 	[type='headline']{
 		font-size: 20px;
+		margin-top: 20px;
+		margin-bottom: 10px;
 	}
 	
 	[type='date']{
@@ -30,7 +32,12 @@ permalink: /writing/
 	}
 	
 	.no-picture {
-		margin-top:-20px;
+		margin-top:-30px;
+	}
+	
+	[type='section"]{
+		font-size: 10px;
+		margin-bottom:10px;
 	}
 	
 	
@@ -45,6 +52,23 @@ permalink: /writing/
 <h3>2018-2019 School Year</h3>
 
 <section class="grid">
+
+	<div class="entry">
+		<a href="https://lhsepic.com/5220/in-depth/oh-the-places-youll-go-after-high-school/">
+			<img src="https://lhsepic.com/wp-content/uploads/2019/05/FUTURE.png">
+			<span type="section">IN-DEPTH</span>
+			<span type="headline">Oh, the places you’ll go after high school</span>
+		</a><br />
+		<span type="date">May 3, 2019</span>
+	</div>
+	
+	<div class="entry">
+		<a href="https://lhsepic.com/4985/in-depth/the-multigenerational-impact-of-grandparents/">
+			<img src="https://lhsepic.com/wp-content/uploads/2019/03/IMG_5277-copy.png">
+			<span type="headline">The multigenerational impact of grandparents</span>
+		</a><br />
+		<span type="date">March 29, 2019</span>
+	</div>
 
 	<div class="entry">
 		<a href="https://lhsepic.com/4973/features/how-to-finish-second-semester-senior-year/">
