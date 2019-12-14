@@ -6,23 +6,24 @@ permalink: /writing/
 <style>
 	.entry{
 		background-color: #F5F5F5;
-		padding: 20px;
 	}
 	
 	.grid{
 		display: grid;
 		grid-template-columns: 260px 260px 260px;
 		grid-template-rows: auto auto auto;
-		grid-gap: 10px;
+		grid-gap: 20px;
 	}
 	
 	[type='headline']{
 		margin-top: 10px;
+		padding: 20px;
 		font-size: 20px;
 	}
 	
 	[type='date']{
-		font-size: 10px;
+		font-size: 15px;
+		padding: 20px;
 	}
 	
 	
