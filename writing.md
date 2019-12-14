@@ -11,9 +11,9 @@ permalink: /writing/
 	
 	.grid{
 		display: grid;
-		grid-template-columns: 250px 250px 250px;
+		grid-template-columns: 240px 240px 240px;
 		grid-template-rows: auto auto auto;
-		grid-gap: 20px;
+		grid-gap: 10px;
 	}
 	
 	[type='headline]{
