@@ -4,8 +4,9 @@ title: "Writing"
 permalink: /writing/
 ---
 <style>
+
 	img {
-		padding: -20px;
+		margin: -20px -20px 0 -20px;
 	}
 	
 	.entry{
@@ -21,7 +22,7 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		margin-top: 20px;
+		margin-top: 30px;
 		font-size: 20px;
 	}
 	
