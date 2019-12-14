@@ -4,10 +4,10 @@ title: "Writing"
 permalink: /writing/
 ---
 <style>
-	.entry{
+	<--.entry{
 		background-color: #FAFAFA;
 		padding: 10px;
-	}
+	}-->
 	
 	.grid{
 		display: grid;
