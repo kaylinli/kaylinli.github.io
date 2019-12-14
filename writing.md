@@ -46,7 +46,7 @@ permalink: /writing/
 
 <h2>Writing</h2>
 
-<p>Here are some of the articles I've written as a staff member of <i>the Epic</i>. Note: not all of the graphics in this section are made by me.</p>
+<p>Here are some of the articles I've written as a staff member of Lynbrook High School's newspaper <i>the Epic</i>. Note: not all of the graphics in this section are made by me.</p>
 
 <h3>2019-2020 School Year</h3>
 
@@ -58,7 +58,7 @@ permalink: /writing/
 		<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/full-musical.png">
 			<span type="section">NEWS</span><br />
-			<span type="headline">Oh, the places you’ll go after high school</span>
+			<span type="headline">Behind the curtain: Lynbrook presents Beauty and the Beast</span>
 		</a><br />
 		<span type="date">May 3, 2019</span>
 	</div>
@@ -74,7 +74,7 @@ permalink: /writing/
 	
 	<div class="entry">
 		<a href="https://lhsepic.com/4985/in-depth/the-multigenerational-impact-of-grandparents/">
-			<img src="https://lhsepic.com/wp-content/uploads/2019/03/IMG_5277-copy.png">
+			<span type="section">IN-DEPTH</span><br />
 			<span type="headline">The multigenerational impact of grandparents</span>
 		</a><br />
 		<span type="date">March 29, 2019</span>
@@ -83,6 +83,7 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/4973/features/how-to-finish-second-semester-senior-year/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/03/cartoon-wooden-surface-clipart-vector_csp26167358.jpg-e1554506202876.png">
+			<span type="section">FEATURES</span><br />
 			<span type="headline">How to finish second semester senior year</span>
 		</a><br />
 		<span type="date">March 29, 2019</span>
@@ -91,6 +92,7 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/4723/opinion/4723/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
+			<span type="section">OPINION</span><br />
 			<span type="headline">Respect Marie Kondo’s Japanese culture</span>
 		</a><br />
 		<span type="date">Mar. 1, 2019</span>
@@ -99,6 +101,7 @@ permalink: /writing/
 
 	<div class="entry">
 		<a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/">
+			<span type="section">NEWS</span><br />
 			<span type="headline" class="no-picture">Governor Newsom establishes goals for the new year</span>
 		</a><br />
 		<span type="date">Feb. 1, 2019</span>
@@ -108,6 +111,7 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/">
 			<img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
+			<span type="section">NEWS</span><br />
 			<span type="headline">New California bill combats recent wildfires</span>
 			</a><br />
 		<span type="date">Oct. 5, 2018</span>
