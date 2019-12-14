@@ -4,14 +4,13 @@ title: "Writing"
 permalink: /writing/
 ---
 <style>
-	<--.entry{
-		background-color: #FAFAFA;
+	.entry{
+		background-color: #F5F5F5;
 		padding: 10px;
-	}-->
+	}
 	
 	.grid{
 		display: grid;
-		background-color: #F5F5F5;
 		grid-template-columns: 240px 240px 240px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 10px;
@@ -38,7 +37,7 @@ permalink: /writing/
 
 <section class="grid">
 
-	<div>
+	<div class="entry">
 		<a href="https://lhsepic.com/4973/features/how-to-finish-second-semester-senior-year/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/03/cartoon-wooden-surface-clipart-vector_csp26167358.jpg-e1554506202876.png">
 			<span type="headline">How to finish second semester senior year</span>
