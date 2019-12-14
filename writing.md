@@ -6,12 +6,12 @@ permalink: /writing/
 <style>
 	.entry{
 		background-color: #F5F5F5;
-		padding: 10px;
+		padding: 20px;
 	}
 	
 	.grid{
 		display: grid;
-		grid-template-columns: 240px 240px 240px;
+		grid-template-columns: 250px 250px 250px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 10px;
 	}
