@@ -6,7 +6,7 @@ permalink: /writing/
 <style>
 
 	img {
-		margin: -20px -20px 30px -20px;
+		<!-- margin: -20px -20px 30px -20px;-->
 	}
 	
 	.entry{
@@ -42,12 +42,12 @@ permalink: /writing/
 
 <section class="grid">
 
-	<div class="entry">
+	<div >
 		<a href="https://lhsepic.com/4973/features/how-to-finish-second-semester-senior-year/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/03/cartoon-wooden-surface-clipart-vector_csp26167358.jpg-e1554506202876.png">
-			<span type="headline">How to finish second semester senior year</span>
+			<p class="entry"><span type="headline">How to finish second semester senior year</span>
 		</a><br />
-		<span type="date">March 29, 2019</span>
+		<span type="date">March 29, 2019</span></p>
 	</div>
 
 	<div class="entry">
