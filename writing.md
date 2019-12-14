@@ -16,7 +16,7 @@ permalink: /writing/
 	
 	.grid{
 		display: grid;
-		grid-template-columns: 260px 260px 260px;
+		grid-template-columns: 265px 265px 265px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 20px;
 	}
@@ -26,17 +26,17 @@ permalink: /writing/
 	}
 	
 	[type='section']{
-		margin-bottom: 10px;
+		margin-bottom: 40px;
 		font-size: 10px;
 	}
 	
 	[type='headline']{
 		font-size: 20px;
-		margin-top: 20px;
+		margin-top: 30px;
 	}
 	
 	[type='date']{
-		margin-top: 20px;
+		margin-top: 30px;
 		font-size: 15px;
 	}
 	
