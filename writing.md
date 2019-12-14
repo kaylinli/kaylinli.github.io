@@ -29,6 +29,10 @@ permalink: /writing/
 		font-size: 15px;
 	}
 	
+	.no-picture {
+		margin-top:-20px;
+	}
+	
 	
 </style>
 
@@ -61,7 +65,7 @@ permalink: /writing/
 
 	<div class="entry">
 		<a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/">
-			<span type="headline" style="margin-top:-10px">Governor Newsom establishes goals for the new year</span>
+			<span type="headline" class="no-picture">Governor Newsom establishes goals for the new year</span>
 		</a><br />
 		<span type="date">Feb. 1, 2019</span>
 	</div>
