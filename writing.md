@@ -39,7 +39,7 @@ permalink: /writing/
 <section class="grid">
 
 	<div>
-		<a href="https://lhsepic.com/4973/features/how-to-finish-second-semester-senior-year/>
+		<a href="https://lhsepic.com/4973/features/how-to-finish-second-semester-senior-year/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/03/cartoon-wooden-surface-clipart-vector_csp26167358.jpg-e1554506202876.png">
 			<span type="headline">How to finish second semester senior year</span>
 		</a><br />
