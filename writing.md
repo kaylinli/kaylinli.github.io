@@ -6,7 +6,7 @@ permalink: /writing/
 <style>
 
 	img {
-		margin: -20px -20px 0 -20px;
+		margin: -20px -20px 30px -20px;
 	}
 	
 	.entry{
@@ -22,7 +22,6 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		margin-top: 30px;
 		font-size: 20px;
 	}
 	
