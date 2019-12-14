@@ -5,7 +5,7 @@ permalink: /writing/
 ---
 <style>
 	.entry{
-		width:500px;
+		width:150;
 		background-color: #FAFAFA;
 		padding: 10px;
 	}
