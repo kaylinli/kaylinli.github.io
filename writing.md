@@ -55,6 +55,15 @@ permalink: /writing/
 <section class="grid">
 
 	<div class="entry">
+		<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
+			<img src="https://lhsepic.com/wp-content/uploads/2019/05/full-musical.png">
+			<span type="section">NEWS</span><br />
+			<span type="headline">Oh, the places you’ll go after high school</span>
+		</a><br />
+		<span type="date">May 3, 2019</span>
+	</div>
+
+	<div class="entry">
 		<a href="https://lhsepic.com/5220/in-depth/oh-the-places-youll-go-after-high-school/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/FUTURE.png">
 			<span type="section">IN-DEPTH</span><br />
