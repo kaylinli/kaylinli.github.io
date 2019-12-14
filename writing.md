@@ -11,7 +11,7 @@ permalink: /writing/
 	
 	.grid{
 		display: grid;
-		background-color: #FAFAFA;
+		background-color: #F5F5F5;
 		grid-template-columns: 240px 240px 240px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 10px;
