@@ -4,8 +4,13 @@ title: "Writing"
 permalink: /writing/
 ---
 <style>
+	img {
+		padding: -20px;
+	}
+	
 	.entry{
 		background-color: #F5F5F5;
+		padding: 20px;
 	}
 	
 	.grid{
@@ -16,14 +21,12 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		margin-top: 10px;
-		padding: 20px;
+		margin-top: 20px;
 		font-size: 20px;
 	}
 	
 	[type='date']{
 		font-size: 15px;
-		padding: 20px;
 	}
 	
 	
