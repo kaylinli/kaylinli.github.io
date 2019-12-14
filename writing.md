@@ -21,24 +21,25 @@ permalink: /writing/
 		grid-gap: 20px;
 	}
 	
-	[type='headline']{
-		font-size: 20px;
-		margin-top: 20px;
-		margin-bottom: 10px;
-	}
-	
-	[type='date']{
-		font-size: 15px;
-	}
-	
 	.no-picture {
 		margin-top:-30px;
 	}
 	
 	[type='section"]{
 		font-size: 10px;
-		margin-bottom:10px;
+		margin-bottom: 10px;
 	}
+	
+	[type='headline']{
+		font-size: 20px;
+		margin-top: 20px;
+	}
+	
+	[type='date']{
+		margin-top: 20px;
+		font-size: 15px;
+	}
+	
 	
 	
 </style>
@@ -56,7 +57,7 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/5220/in-depth/oh-the-places-youll-go-after-high-school/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/FUTURE.png">
-			<span type="section">IN-DEPTH</span>
+			<span type="section">IN-DEPTH</span><br />
 			<span type="headline">Oh, the places you’ll go after high school</span>
 		</a><br />
 		<span type="date">May 3, 2019</span>
