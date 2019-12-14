@@ -6,7 +6,7 @@ permalink: /writing/
 <style>
 
 	img {
-		padding: -20px -20px 30px -20px;
+		padding:0;
 	}
 	
 	.entry{
@@ -27,7 +27,7 @@ permalink: /writing/
 	
 	[type='section']{
 		margin-bottom: 40px;
-		font-size: 10px;
+		font-size: 14px;
 	}
 	
 	[type='headline']{
@@ -37,7 +37,7 @@ permalink: /writing/
 	
 	[type='date']{
 		margin-top: 30px;
-		font-size: 15px;
+		font-size: 10px;
 	}
 	
 	
@@ -57,53 +57,53 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/full-musical.png">
-			<span type="section">NEWS</span><br /><br />
+			<span type="section">NEWS</span><br />
 			<span type="headline">Behind the curtain: Lynbrook presents Beauty and the Beast</span>
-		</a><br /><br />
+		</a><br />
 		<span type="date">May 3, 2019</span>
 	</div>
 
 	<div class="entry">
 		<a href="https://lhsepic.com/5220/in-depth/oh-the-places-youll-go-after-high-school/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/FUTURE.png">
-			<span type="section">IN-DEPTH</span><br /><br />
+			<span type="section">IN-DEPTH</span><br />
 			<span type="headline">Oh, the places you’ll go after high school</span>
-		</a><br /><br />
+		</a><br />
 		<span type="date">May 3, 2019</span>
 	</div>
 	
 	<div class="entry">
 		<a href="https://lhsepic.com/4985/in-depth/the-multigenerational-impact-of-grandparents/">
-			<span type="section">IN-DEPTH</span><br /><br />
+			<span type="section">IN-DEPTH</span><br />
 			<span type="headline">The multigenerational impact of grandparents</span>
-		</a><br /><br />
+		</a><br />
 		<span type="date">March 29, 2019</span>
 	</div>
 
 	<div class="entry">
 		<a href="https://lhsepic.com/4973/features/how-to-finish-second-semester-senior-year/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/03/cartoon-wooden-surface-clipart-vector_csp26167358.jpg-e1554506202876.png">
-			<span type="section">FEATURES</span><br /><br />
+			<span type="section">FEATURES</span><br />
 			<span type="headline">How to finish second semester senior year</span>
-		</a><br /><br />
+		</a><br />
 		<span type="date">March 29, 2019</span>
 	</div>
 
 	<div class="entry">
 		<a href="https://lhsepic.com/4723/opinion/4723/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
-			<span type="section">OPINION</span><br /><br />
+			<span type="section">OPINION</span><br />
 			<span type="headline">Respect Marie Kondo’s Japanese culture</span>
-		</a><br /><br />
+		</a><br />
 		<span type="date">Mar. 1, 2019</span>
 	</div>
 
 
 	<div class="entry">
 		<a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/">
-			<span type="section">NEWS</span><br /><br />
+			<span type="section">NEWS</span><br />
 			<span type="headline" class="no-picture">Governor Newsom establishes goals for the new year</span>
-		</a><br /><br />
+		</a><br />
 		<span type="date">Feb. 1, 2019</span>
 	</div>
 
@@ -111,9 +111,9 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/">
 			<img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
-			<span type="section">NEWS</span><br /><br />
+			<span type="section">NEWS</span><br />
 			<span type="headline">New California bill combats recent wildfires</span>
-			</a><br /><br />
+			</a><br />
 		<span type="date">Oct. 5, 2018</span>
 	</div>
 	
