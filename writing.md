@@ -11,6 +11,7 @@ permalink: /writing/
 	
 	.grid{
 		display: grid;
+		background-color: #FAFAFA;
 		grid-template-columns: 240px 240px 240px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 10px;
@@ -37,19 +38,15 @@ permalink: /writing/
 
 <section class="grid">
 
-	<br />
-
 	<div class="entry"><a href="https://lhsepic.com/4723/opinion/4723/"><img src="https://lhsepic.com/wp-content/uploads/2019/03/mariekondo-maybe.jpg">
 	<span type="headline">Respect Marie Kondo’s Japanese culture</span></a><br />
 	<span type="date">Mar. 1, 2019</span></div>
 
-	<br />
 
 	<div class="entry"><a href="https://lhsepic.com/4512/news/governor-newsom-establishes-goals-for-the-new-year/">
 	<span type="headline">Governor Newsom establishes goals for the new year</span></a><br />
 	<span type="date">Feb. 1, 2019</span></div>
 
-	<br />
 
 	<div class="entry"><a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/"><img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif">
 	<span type="headline">New California bill combats recent wildfires</span></a><br />
