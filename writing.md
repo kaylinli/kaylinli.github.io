@@ -16,7 +16,7 @@ permalink: /writing/
 		grid-gap: 10px;
 	}
 	
-	[type='headline]{
+	[type='headline']{
 		font-size: 20px;
 	}
 	
@@ -29,7 +29,7 @@ permalink: /writing/
 
 <h2>Writing</h2>
 
-<p>*Note: the graphics in this section are not made by me.*</p>
+<p>Here are some of the articles I've written as a staff member of <i>the Epic</i>. Note: not all of the graphics in this section are made by me.</p>
 
 <h3>2019-2020 School Year</h3>
 
