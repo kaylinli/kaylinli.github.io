@@ -5,14 +5,14 @@ permalink: /writing/
 ---
 <style>
 	.entry{
-		width:150;
+		width:250;
 		background-color: #FAFAFA;
 		padding: 10px;
 	}
 	
 	.grid{
 		display: grid;
-		grid-template-columns: 150px 150px 150px;
+		grid-template-columns: 250px 250px 250px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 20px;
 	}
