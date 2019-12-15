@@ -106,7 +106,7 @@ permalink: /writing/
 	
 	<div class="entry">
 		<a href="https://lhsepic.com/4985/in-depth/the-multigenerational-impact-of-grandparents/">
-			<img src="https://lhsepic.com/4985/in-depth/the-multigenerational-impact-of-grandparents/"><br />
+			<img src="https://lhsepic.com/wp-content/uploads/2019/03/IMG_5277-copy.png"><br />
 			<span type="section">IN-DEPTH</span><br />
 			<span type="headline">The multigenerational impact of grandparents</span>
 		</a><br />
