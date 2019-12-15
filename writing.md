@@ -32,7 +32,7 @@ permalink: /writing/
 	[type='headline']{
 		font-size: 20px;
 		margin-top: 30px;
-		font-weight: 550;
+		font-weight: 400;
 	}
 	
 	[type='date']{
