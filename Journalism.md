@@ -20,6 +20,7 @@ permalink: /journalism/
 	
 </style>
 <h2>Journalism</h2>
-Check out some of the work I've done for Lynbrook High School's newspaper, the Epic!
+I have been a staff member of the Epic since junior year, and co-web editor senior year. Check out some of the work I've done for Lynbrook High School's newspaper, the Epic!
 <a href="lhsepic.com">lhsepic.com</a>
 
+<a href="writing"><h3>Writing</h3></a>
