@@ -32,12 +32,12 @@ permalink: /writing/
 	[type='headline']{
 		font-size: 20px;
 		margin-top: 30px;
-		font-weight:bold;
+		font-weight: 500;
 	}
 	
 	[type='date']{
 		margin-top: 30px;
-		font-size: 10px;
+		font-size: 12px;
 		margin-bottom: 20px;
 	}
 	
