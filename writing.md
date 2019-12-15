@@ -50,10 +50,32 @@ permalink: /writing/
 
 <h3>2019-2020 School Year</h3>
 
+<section class="grid">
+	
+	<div class="entry">
+		<a href="https://lhsepic.com/6560/in-depth/examining-lynbrook-security-cameras/">
+			<img src="https://lhsepic.com/wp-content/uploads/2019/11/security-camera-e1573426206264.png"><br />
+			<span type="section">IN-DEPTH</span><br />
+			<span type="headline">Examining Lynbrook security cameras</span>
+		</a><br />
+		<span type="date">Nov. 5, 2019</span>
+	</div>
+
+</section>
+
 <h3>2018-2019 School Year</h3>
 
 <section class="grid">
-
+	
+	<div class="entry">
+		<a href="https://lhsepic.com/5475/in-depth/politics-in-the-digital-age-from-daily-life-to-elections/">
+			<img src="https://lhsepic.com/wp-content/uploads/2019/05/cyberpolitics-1-e1559255674492.png"><br />
+			<span type="section">IN-DEPTH</span><br />
+			<span type="headline">Politics in the digital age: from daily life to elections</span>
+		</a><br />
+		<span type="date">May 31, 2019</span>
+	</div>
+	
 	<div class="entry">
 		<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/full-musical.png"><br />
