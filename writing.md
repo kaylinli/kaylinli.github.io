@@ -51,6 +51,15 @@ permalink: /writing/
 <h3>2019-2020 School Year</h3>
 
 <section class="grid">
+
+	<div class="entry">
+		<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
+			<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg"><br />
+			<span type="section">IN-DEPTH</span><br />
+			<span type="headline">Esports: the world of competitive gaming</span>
+		</a><br />
+		<span type="date">Dec. 11, 2019</span>
+	</div>
 	
 	<div class="entry">
 		<a href="https://lhsepic.com/6560/in-depth/examining-lynbrook-security-cameras/">
