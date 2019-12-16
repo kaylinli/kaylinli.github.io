@@ -110,7 +110,7 @@ permalink: /media/
 
 	<div class="entry">
 		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_4__2018/4">
-			<img src="C:\Users\Kaylin-HP840\Pictures\epic\issue4features7"><br />
+			<img src="file:///C:\Users\Kaylin-HP840\Pictures\epic\issue4features7"><br />
 			Layout for This Viking Life story<br />
 			<span type="collaborators">in collaboration with Ashley Song<br />
 			<span type="date">Feb. 1, 2019</span>
@@ -119,7 +119,7 @@ permalink: /media/
 
 	<div class="entry">
 		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_3__2018/8">
-			<img src="C:\Users\Kaylin-HP840\Pictures\epic\issue3features8"><br />
+			<img src="file:///C:\Users\Kaylin-HP840\Pictures\epic\issue3features8"><br />
 			Graphic for holiday gift guide story<br />
 			<span type="collaborators">in collaboration with the rest of the Features section</span><br />
 			<span type="date">Dec. 14, 2018</span>
