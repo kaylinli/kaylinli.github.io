@@ -23,4 +23,5 @@ permalink: /journalism/
 I have been a staff member of the Epic since junior year, and co-web editor senior year. Check out some of the work I've done for Lynbrook High School's newspaper, the Epic!
 <a href="lhsepic.com">lhsepic.com</a>
 
-<h3><a href="writing">Writing</a></h3>
+<h3><a href="https://kaylinli.github.io/writing">Writing</a></h3>
+<h3><a href="https://kaylinli.github.io/media">Media</a></h3>
