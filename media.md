@@ -110,7 +110,7 @@ permalink: /media/
 
 	<div class="entry">
 		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_1__2018/8">
-			<img src="file:///C:\Users\Kaylin-HP840\Pictures\epic"><br />
+			<img src="file:///C:\Users\Kaylin-HP840\Pictures\epic\issue1features9"><br />
 			Layout for cafeteria ladies story<br />
 			<span type="date">Oct. 5, 2019</span>
 		</a>
