@@ -55,6 +55,14 @@ permalink: /media/
 		</a>
 	</div>
 	
+	<div class="entry">
+		<a href="https://lhsepic.com/6022/features/meet-the-new-teachers-at-lynbrook/">
+			<img src="https://lhsepic.com/wp-content/uploads/2019/09/IMG_4472-e1570488126148-900x668.jpg"><br />
+			Photos for "Meet the new teachers at Lynbrook!"<br />
+			<span type="date">Oct. 18, 2019</span>
+		</a>
+	</div>
+	
 </section>
 
 <h4>2018-2019 School Year</h4>
