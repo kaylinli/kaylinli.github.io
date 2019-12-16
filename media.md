@@ -3,6 +3,15 @@ layout: page
 title: "Media"
 permalink: /media/
 ---
+<style>
+	.grid {
+		display: grid;
+		grid-template-columns: 265px 265px 265px;
+		grid-template-rows: auto auto auto;
+		grid-gap: 20px;
+	}
+</style>
+
 <h2>Media</h2>
 
 <p>Here are some of the different forms of media I've used for <i>the Epic</i>.
