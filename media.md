@@ -79,7 +79,7 @@ permalink: /media/
 
 </section>
 
-<h3>Graphics</h3>
+<h3>Graphics and Design</h3>
 
 <h4>2019-2020 School Year</h4>
 
@@ -103,5 +103,22 @@ permalink: /media/
 	</div>
 	
 </section>
+
+<h4>2018-2019 School Year</h4>
+
+<section class="grid">
+
+	<div class="entry">
+		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_1__2018/8">
+			<img src="file:///C:\Users\Kaylin-HP840\Pictures\epic"><br />
+			Layout for cafeteria ladies story<br />
+			<span type="date">Oct. 5, 2019</span>
+		</a>
+	</div>
+
+	
+</section>
+
+
 
 
