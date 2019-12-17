@@ -112,7 +112,7 @@ permalink: /media/
 		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_4__2018/4">
 			<img src="file:///C:\Users\Kaylin-HP840\Pictures\epic\issue4features7"><br />
 			Layout for This Viking Life story<br />
-			<span type="collaborators">in collaboration with Ashley Song<br />
+			<span type="collaborators">in collaboration with Ashley Song</span><br />
 			<span type="date">Feb. 1, 2019</span>
 		</a>
 	</div>
