@@ -31,7 +31,7 @@ permalink: /media/
 
 <h2>Media</h2>
 
-<p>Here are some of the different forms of media I've used for <i>the Epic</i>.
+<p>Here are some of the photos that I've taken and layouts and graphics I've designed <i>the Epic</i>.
 
 <h3>Photos</h3>
 
@@ -105,6 +105,7 @@ permalink: /media/
 </section>
 
 <h4>2018-2019 School Year</h4>
+-not completely updated-
 
 <section class="grid">
 
@@ -136,7 +137,4 @@ permalink: /media/
 
 	
 </section>
-
-
-<img src="img/issue1features9.png">
 
