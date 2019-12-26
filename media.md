@@ -138,5 +138,5 @@ permalink: /media/
 </section>
 
 
-
+<img src="img/issue1features9.png">
 
