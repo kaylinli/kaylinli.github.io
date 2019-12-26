@@ -110,7 +110,7 @@ permalink: /media/
 
 	<div class="entry">
 		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_4__2018/4">
-			<img src="img/issue4features7.png"><br />
+			<img src="https://kaylinli.github.io/img/issue4features7.png"><br />
 			Layout for This Viking Life story<br />
 			<span type="collaborators">in collaboration with Ashley Song</span><br />
 			<span type="date">Feb. 1, 2019</span>
@@ -119,7 +119,7 @@ permalink: /media/
 
 	<div class="entry">
 		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_3__2018/8">
-			<img src="img/issue3features8.png"><br />
+			<img src="https://kaylinli.github.io/img/issue3features8.png"><br />
 			Graphic for holiday gift guide story<br />
 			<span type="collaborators">in collaboration with the rest of the Features section</span><br />
 			<span type="date">Dec. 14, 2018</span>
@@ -128,7 +128,7 @@ permalink: /media/
 
 	<div class="entry">
 		<a href="https://issuu.com/theepic/docs/the_epic__vol._54__issue_1__2018/8">
-			<img src="img/issue1features9.png"><br />
+			<img src="https://kaylinli.github.io/img/issue1features9.png"><br />
 			Layout for cafeteria ladies story<br />
 			<span type="date">Oct. 5, 2018</span>
 		</a>
