@@ -27,6 +27,7 @@ permalink: /writing/
 	
 	[type='section']{
 		font-size: 14px;
+		margin: 0px 20px 0px 20px;
 	}
 	
 	[type='headline']{
