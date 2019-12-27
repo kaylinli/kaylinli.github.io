@@ -10,8 +10,8 @@ permalink: /writing/
 	}
 	
 	.entry{
-		background-color: #F5F5F5;
-		padding: 20px;
+		<!--background-color: #F5F5F5;
+		padding: 20px;-->
 	}
 	
 	.grid{
