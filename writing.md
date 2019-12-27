@@ -11,7 +11,7 @@ permalink: /writing/
 	
 	.entry{
 		background-color: #F5F5F5;
-		padding: 0px 20px 20px 20px;
+		<!--padding: 0px 20px 20px 20px;-->
 	}
 	
 	.grid{
@@ -31,14 +31,15 @@ permalink: /writing/
 	
 	[type='headline']{
 		font-size: 20px;
-		margin-top: 30px;
+		<!--margin-top: 30px;-->
+		margin-right: 20px;
 		font-weight: 400;
 	}
 	
 	[type='date']{
-		margin-top: 30px;
+		<!--margin-top: 30px;-->;
 		font-size: 12px;
-		margin-bottom: 20px;
+		<!--margin-bottom: 20px;-->
 	}
 	
 	
