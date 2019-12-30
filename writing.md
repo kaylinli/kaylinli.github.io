@@ -18,7 +18,6 @@ permalink: /writing/
 		grid-template-columns: 265px 265px 265px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 20px;
-		padding: 0px 20px 20px 20px;
 	}
 	
 	.no-picture {
