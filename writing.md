@@ -6,12 +6,11 @@ permalink: /writing/
 <style>
 
 	img {
-		padding: 0px -20px 0px -20px;
+		<!--padding: 0px -20px 0px -20px;-->
 	}
 	
 	.entry{
 		background-color: #F5F5F5;
-		<!--padding: 0px 20px 20px 20px;-->
 	}
 	
 	.grid{
@@ -19,6 +18,7 @@ permalink: /writing/
 		grid-template-columns: 265px 265px 265px;
 		grid-template-rows: auto auto auto;
 		grid-gap: 20px;
+		padding: 0px 20px 20px 20px;
 	}
 	
 	.no-picture {
@@ -144,13 +144,13 @@ permalink: /writing/
 	</div>
 
 
-	<div class="entry">
+	<div>
 		<a href="https://lhsepic.com/3650/news/1_nw_firebillkaylinl/">
 			<img src="https://lhsepic.com/wp-content/uploads/2018/10/firebill-houses.gif"><br />
-			<span type="section">NEWS</span><br />
-			<span type="headline">New California bill combats recent wildfires</span>
+			<span type="section" class="entry">NEWS</span><br />
+			<span type="headline" class="entry">New California bill combats recent wildfires</span>
 			</a><br />
-		<span type="date">Oct. 5, 2018</span>
+		<span type="date" class="entry">Oct. 5, 2018</span>
 	</div>
 	
 </section>
