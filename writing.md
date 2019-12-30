@@ -30,7 +30,7 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		width: 240px;
+		width: 100px;
 		font-size: 20px;
 		<!--margin-top: 30px;-->
 		padding: 0px 20px 0px 20px;
