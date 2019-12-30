@@ -31,10 +31,10 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		width: 245px;
+		width: 240px;
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		padding: 0px 20px 0px 20px;
+		margin: 0px 20px 0px 20px;
 		font-weight: 400;
 	}
 	
