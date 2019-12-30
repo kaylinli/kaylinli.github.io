@@ -31,7 +31,7 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		width: 265px;
+		width: 255px;
 		font-size: 20px;
 		<!--margin-top: 30px;-->
 		padding: 0px 20px 0px 20px;
