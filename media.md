@@ -6,14 +6,14 @@ permalink: /media/
 <style>
 	.entry{
 		background-color: #F5F5F5;
-		padding: 20px;
+		padding: 10px;
 	}
 	
 	.grid {
 		display: grid;
 		grid-template-columns: 265px 265px 265px;
 		grid-template-rows: auto auto auto;
-		grid-gap: 20px;
+		grid-gap: 10px;
 	}
 	
 	[type='headline']{
