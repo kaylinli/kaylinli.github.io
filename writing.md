@@ -21,7 +21,7 @@ permalink: /writing/
 	}
 	
 	.no-picture {
-		margin-top:-10px;
+		margin-top:10px;
 	}
 	
 	[type='section']{
@@ -33,7 +33,7 @@ permalink: /writing/
 		width: 240px;
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		margin: 0px 20px 0px 20px;
+		padding: 0px 20px 0px 20px;
 		font-weight: 400;
 	}
 	
@@ -41,7 +41,7 @@ permalink: /writing/
 		<!--margin-top: 30px;-->;
 		padding: 0px 20px 20px 20px;
 		font-size: 12px;
-		<!--margin-bottom: 20px;-->
+		margin-bottom: 20px;
 	}
 	
 	
