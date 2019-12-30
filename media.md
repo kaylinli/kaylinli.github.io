@@ -13,7 +13,7 @@ permalink: /media/
 		display: grid;
 		grid-template-columns: 265px 265px 265px;
 		grid-template-rows: auto auto auto;
-		grid-gap: 10px;
+		grid-gap: 20px;
 	}
 	
 	[type='headline']{
