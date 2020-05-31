@@ -17,6 +17,7 @@ permalink: /writing/
 	
 	.text {
 		padding: 1em;
+		margin: 1em;
 	}
 	
 	<!--.entry > div{
@@ -35,17 +36,16 @@ permalink: /writing/
 	}
 	
 	#section{
-		font-size: 14px;
+		font-size: 0.7em;
 	}
 	
 	#headline{
-		font-size: 20px;
+		font-size: 1em;
 		<!--margin-top: 30px;-->
 	}
 	
 	#date{
-		font-size: 12px;
-		
+		font-size: 0.6em;
 	}
 	
 	
@@ -61,11 +61,11 @@ permalink: /writing/
 <section class="grid">
 
 	<div class="entry">
-		<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
-			<div class="image">
+		<div class="image">
+			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
 				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg">
-			</div>
-		</a>
+			</a>
+		</div>
 		<div class="text">
 			<span id="section">IN-DEPTH</span><br />
 			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
@@ -76,12 +76,18 @@ permalink: /writing/
 	</div>
 	
 	<div class="entry">
-		<a href="https://lhsepic.com/6560/in-depth/examining-lynbrook-security-cameras/">
-			<img src="https://lhsepic.com/wp-content/uploads/2019/11/security-camera-e1573426206264.png"><br />
-			<span type="section">IN-DEPTH</span><br />
-			<span type="headline">Examining Lynbrook security cameras</span>
-		</a><br />
-		<span type="date">Nov. 5, 2019</span>
+		<div class="image">
+			<a href="https://lhsepic.com/6560/in-depth/examining-lynbrook-security-cameras/">
+				<img src="https://lhsepic.com/wp-content/uploads/2019/11/security-camera-e1573426206264.png"><br />
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">IN-DEPTH</span><br />
+			<a href="https://lhsepic.com/6560/in-depth/examining-lynbrook-security-cameras/">
+				<span id="headline">Examining Lynbrook security cameras</span>
+			</a><br />
+			<span id="date">Nov. 5, 2019</span>
+		</div>
 	</div>
 
 </section>
@@ -93,19 +99,19 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/5475/in-depth/politics-in-the-digital-age-from-daily-life-to-elections/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/cyberpolitics-1-e1559255674492.png"><br />
-			<span type="section">IN-DEPTH</span><br />
-			<span type="headline">Politics in the digital age: from daily life to elections</span>
+			<span id="section">IN-DEPTH</span><br />
+			<span id="headline">Politics in the digital age: from daily life to elections</span>
 		</a><br />
-		<span type="date">May 31, 2019</span>
+		<span id="date">May 31, 2019</span>
 	</div>
 	
 	<div class="entry">
 		<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/05/full-musical.png"><br />
-			<span type="section">NEWS</span><br />
-			<span type="headline">Behind the curtain: Lynbrook presents Beauty and the Beast</span>
+			<span id="section">NEWS</span><br />
+			<span id="headline">Behind the curtain: Lynbrook presents Beauty and the Beast</span>
 		</a><br />
-		<span type="date">May 3, 2019</span>
+		<span id="date">May 3, 2019</span>
 	</div>
 
 	<div class="entry">
