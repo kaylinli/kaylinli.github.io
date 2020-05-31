@@ -30,20 +30,20 @@ permalink: /writing/
 	
 	[type='section']{
 		font-size: 14px;
-		padding: 0em 1em 0em 1em;
+		<!--padding: 0em 1em 0em 1em;-->
 	}
 	
 	[type='headline']{
 		width: 100px;
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		padding: 0em 1em 0em 1em;
+		<!--padding: 0em 1em 0em 1em;-->
 		font-weight: 400;
 	}
 	
 	[type='date']{
-		<!--margin-top: 30px;-->;
-		padding: 0em 1em 1em 1em;
+		<!--margin-top: 30px;-->
+		<!--padding: 0em 1em 1em 1em;-->
 		font-size: 12px;
 		margin-bottom: 1em;
 	}
