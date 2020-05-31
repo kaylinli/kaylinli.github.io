@@ -6,11 +6,12 @@ permalink: /writing/
 <style>
 
 	img {
-		<!--padding: 0px -20px 0px -20px;-->
+		padding: 0em -1em 0em -1em;
 	}
 	
 	.entry{
 		background-color: #F5F5F5;
+		padding:1em;
 	}
 	
 	.entry > div{
@@ -42,7 +43,7 @@ permalink: /writing/
 	}
 	
 	[type='date']{
-		<!--margin-top: 30px;-->
+		margin-top: 30px;
 		<!--padding: 0em 1em 1em 1em;-->
 		font-size: 12px;
 		margin-bottom: 1em;
