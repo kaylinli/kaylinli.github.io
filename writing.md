@@ -15,7 +15,7 @@ permalink: /writing/
 	}
 	
 	.entry > div{
-		padding:1em;
+		padding:0em 1em 0em 1em;
 	}
 	
 	.grid{
@@ -46,7 +46,7 @@ permalink: /writing/
 		margin-top: 30px;
 		<!--padding: 0em 1em 1em 1em;-->
 		font-size: 12px;
-		margin-bottom: 1em;
+		margin-bottom: 20px;
 	}
 	
 	
@@ -67,7 +67,7 @@ permalink: /writing/
 			<div type="section">IN-DEPTH</div><br />
 			<div type="headline">Esports: the world of competitive gaming</div>
 		</a><br />
-		<div type="date">Dec. 11, 2019</div>
+		<span type="date">Dec. 11, 2019</div>
 	</div>
 	
 	<div class="entry">
