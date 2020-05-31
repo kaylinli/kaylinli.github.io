@@ -16,7 +16,6 @@ permalink: /writing/
 	}
 	
 	.text {
-		padding: 1em;
 		margin-bottom: 1em;
 	}
 	
