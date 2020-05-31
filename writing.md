@@ -15,7 +15,8 @@ permalink: /writing/
 	
 	.grid{
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
+		<!--grid-template-columns: 1fr 1fr 1fr;-->
+		grid-template-columns:repeat(4, 1fr);
 		grid-template-rows: auto auto auto;
 		grid-gap: 1em;
 	}
