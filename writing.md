@@ -15,7 +15,7 @@ permalink: /writing/
 	
 	.grid{
 		display: grid;
-		grid-template-columns: 33% 33% 33%;
+		grid-template-columns: 1fr 1fr 1fr;
 		grid-template-rows: auto auto auto;
 		grid-gap: 1em;
 	}
@@ -33,7 +33,7 @@ permalink: /writing/
 		width: 100px;
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		padding: 0em 20em 0em 20em;
+		padding: 0em 1em 0em 1em;
 		font-weight: 400;
 	}
 	
