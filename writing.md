@@ -17,31 +17,31 @@ permalink: /writing/
 		display: grid;
 		grid-template-columns: 33% 33% 33%;
 		grid-template-rows: auto auto auto;
-		grid-gap: 20px;
+		grid-gap: 1em;
 	}
 	
 	.no-picture {
-		margin-top:10px;
+		margin-top:1em;
 	}
 	
 	[type='section']{
 		font-size: 14px;
-		padding: 0px 20px 0px 20px;
+		padding: 0em 20em 0em 20em;
 	}
 	
 	[type='headline']{
 		width: 100px;
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		padding: 0px 20px 0px 20px;
+		padding: 0em 20em 0em 20em;
 		font-weight: 400;
 	}
 	
 	[type='date']{
 		<!--margin-top: 30px;-->;
-		padding: 0px 20px 20px 20px;
+		padding: 0em 1em 1em 1em;
 		font-size: 12px;
-		margin-bottom: 20px;
+		margin-bottom: 1em;
 	}
 	
 	
