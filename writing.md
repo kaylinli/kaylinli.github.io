@@ -11,12 +11,11 @@ permalink: /writing/
 	
 	.entry{
 		background-color: #F5F5F5;
-		padding:1em;
 	}
 	
-	.entry > div{
+	<!--.entry > div{
 		padding:0em 1em 0em 1em;
-	}
+	}-->
 	
 	.grid{
 		display: grid;
@@ -31,19 +30,19 @@ permalink: /writing/
 	
 	[type='section']{
 		font-size: 14px;
-		<!--padding: 0em 1em 0em 1em;-->
+		padding: 0em 1em 0em 1em;
 	}
 	
 	[type='headline']{
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		<!--padding: 0em 1em 0em 1em;-->
+		padding: 0em 1em 0em 1em;
 		font-weight: 400;
 	}
 	
 	[type='date']{
 		margin-top: 30px;
-		<!--padding: 0em 1em 1em 1em;-->
+		padding: 0em 1em 1em 1em;
 		font-size: 12px;
 		margin-bottom: 20px;
 	}
