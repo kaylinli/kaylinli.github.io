@@ -5,13 +5,18 @@ permalink: /writing/
 ---
 <style>
 
-	img {
-		<!--padding: 0em 0em 0em 0em;-->
-	}
 	
 	.entry{
 		background-color: #F5F5F5;
 		display: grid;
+	}
+	
+	.image {
+		padding: 0em 0em 0em 0em;
+	}
+	
+	.text {
+		padding: 1em;
 	}
 	
 	<!--.entry > div{
@@ -60,9 +65,13 @@ permalink: /writing/
 
 	<div class="entry">
 		<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
-			<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg"><br />
-			<div class="section">IN-DEPTH</div><br />
-			<div class="headline">Esports: the world of competitive gaming</div><br />
+			<div class="image">
+				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg"><br />
+			</div>
+			<div class="text">
+				<span type="section">IN-DEPTH</span><br />
+				<span type="headline">Esports: the world of competitive gaming</span><br />
+			</div>
 		</a>
 		<div class="date">Dec. 11, 2019</div>
 	</div>
