@@ -60,9 +60,9 @@ permalink: /writing/
 
 	<div class="entry">
 		<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
-			<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg">
-			<div class="section">IN-DEPTH</div>
-			<div class="headline">Esports: the world of competitive gaming</div>
+			<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg"><br />
+			<div class="section">IN-DEPTH</div><br />
+			<div class="headline">Esports: the world of competitive gaming</div><br />
 		</a>
 		<div class="date">Dec. 11, 2019</div>
 	</div>
