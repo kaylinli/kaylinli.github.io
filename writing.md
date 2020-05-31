@@ -13,9 +13,9 @@ permalink: /writing/
 		background-color: #F5F5F5;
 	}
 	
-	<!--.entry > div{
+	.entry > div{
 		padding:0em 1em 0em 1em;
-	}-->
+	}
 	
 	.grid{
 		display: grid;
@@ -34,10 +34,9 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		font-size: 5px;
+		font-size: 20px;
 		<!--margin-top: 30px;-->
 		padding: 0em 1em 0em 1em;
-		font-weight: 400;
 	}
 	
 	[type='date']{
@@ -63,7 +62,7 @@ permalink: /writing/
 		<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg"><br />
 			<span type="section">IN-DEPTH</span><br />
-			<span type="headline">Esports: the world of competitive gaming</span>
+			<div type="headline">Esports: the world of competitive gaming</div>
 		</a><br />
 		<span type="date">Dec. 11, 2019</span>
 	</div>
