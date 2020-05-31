@@ -36,13 +36,11 @@ permalink: /writing/
 	
 	.section{
 		font-size: 14px;
-		padding: 0em 1em 0em 1em;
 	}
 	
 	.headline{
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		padding: 1em;
 	}
 	
 	.date{
@@ -66,7 +64,7 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
 			<div class="image">
-				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg"><br />
+				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg">
 			</div>
 			<div class="text">
 				<span type="section">IN-DEPTH</span><br />
