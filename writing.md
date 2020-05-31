@@ -6,7 +6,7 @@ permalink: /writing/
 <style>
 
 	img {
-		padding: 0em -1em 0em -1em;
+		padding: 0em 0em 0em 0em;
 	}
 	
 	.entry{
