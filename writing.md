@@ -7,7 +7,7 @@ permalink: /writing/
 
 	
 	.entry{
-		background-color: #F5F5F5;
+		<!--background-color: #F5F5F5;-->
 		display: grid;
 	}
 	
