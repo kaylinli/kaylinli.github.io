@@ -27,7 +27,9 @@ permalink: /writing/
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 		grid-template-rows: auto auto auto;
-		grid-gap: 1em;
+		grid-column-gap: 1em;
+		grid-row-gap: 2em;
+		
 	}
 	
 	.no-picture {
@@ -55,7 +57,7 @@ permalink: /writing/
 
 <p>Here are some of the articles I've written as a staff member of Lynbrook High School's newspaper <i>the Epic</i>. Note: not all of the graphics in this section are made by me.</p>
 
-<h3>2019-2020 School Year</h3>
+<h3>2019-2020 School Year</h3><br />
 
 <section class="grid">
 
@@ -91,7 +93,7 @@ permalink: /writing/
 
 </section>
 
-<h3>2018-2019 School Year</h3>
+<h3>2018-2019 School Year</h3><br />
 
 <section class="grid">
 	
