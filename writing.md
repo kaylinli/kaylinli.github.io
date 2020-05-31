@@ -67,7 +67,7 @@ permalink: /writing/
 			<div type="section">IN-DEPTH</div><br />
 			<div type="headline">Esports: the world of competitive gaming</div>
 		</a><br />
-		<span type="date">Dec. 11, 2019</div>
+		<span type="date">Dec. 11, 2019</span>
 	</div>
 	
 	<div class="entry">
