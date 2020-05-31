@@ -34,7 +34,7 @@ permalink: /writing/
 	}
 	
 	[type='headline']{
-		font-size: 20px;
+		font-size: 5px;
 		<!--margin-top: 30px;-->
 		padding: 0em 1em 0em 1em;
 		font-weight: 400;
@@ -62,8 +62,8 @@ permalink: /writing/
 	<div class="entry">
 		<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
 			<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg"><br />
-			<div type="section">IN-DEPTH</div><br />
-			<div type="headline">Esports: the world of competitive gaming</div>
+			<span type="section">IN-DEPTH</span><br />
+			<span type="headline">Esports: the world of competitive gaming</span>
 		</a><br />
 		<span type="date">Dec. 11, 2019</span>
 	</div>
