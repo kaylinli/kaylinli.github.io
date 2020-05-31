@@ -17,7 +17,6 @@ permalink: /writing/
 	
 	.text {
 		padding: 1em;
-		margin-bottom: 20px;
 	}
 	
 	<!--.entry > div{
@@ -26,7 +25,7 @@ permalink: /writing/
 	
 	.grid{
 		display: grid;
-		grid-template-columns: 1fr 1fr 1fr;
+		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 		grid-template-rows: auto auto auto;
 		grid-gap: 1em;
 	}
@@ -45,7 +44,6 @@ permalink: /writing/
 	}
 	
 	#date{
-		<!--padding: 0em 1em 1em 1em;-->
 		font-size: 12px;
 		
 	}
@@ -72,7 +70,7 @@ permalink: /writing/
 			<span id="section">IN-DEPTH</span><br />
 			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
 				<span id="headline">Esports: the world of competitive gaming</span><br />
-			</a><br />
+			</a>
 			<span id="date">Dec. 11, 2019</span><br />
 		</div>
 	</div>
