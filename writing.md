@@ -37,7 +37,7 @@ permalink: /writing/
 	.headline{
 		font-size: 20px;
 		<!--margin-top: 30px;-->
-		padding: 0em 1em 0em 1em;
+		padding: 1em;
 	}
 	
 	.date{
