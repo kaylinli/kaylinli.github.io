@@ -17,6 +17,7 @@ permalink: /writing/
 	
 	.text {
 		padding: 1em;
+		margin-bottom: 20px;
 	}
 	
 	<!--.entry > div{
@@ -46,7 +47,7 @@ permalink: /writing/
 	#date{
 		<!--padding: 0em 1em 1em 1em;-->
 		font-size: 12px;
-		margin-bottom: 20px;
+		
 	}
 	
 	
@@ -71,8 +72,8 @@ permalink: /writing/
 			<span id="section">IN-DEPTH</span><br />
 			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
 				<span id="headline">Esports: the world of competitive gaming</span><br />
-			</a>
-			<span id="date">Dec. 11, 2019</span>
+			</a><br />
+			<span id="date">Dec. 11, 2019</span><br />
 		</div>
 	</div>
 	
