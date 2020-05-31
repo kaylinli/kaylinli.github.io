@@ -34,16 +34,16 @@ permalink: /writing/
 		margin-top:1em;
 	}
 	
-	.section{
+	#section{
 		font-size: 14px;
 	}
 	
-	.headline{
+	#headline{
 		font-size: 20px;
 		<!--margin-top: 30px;-->
 	}
 	
-	.date{
+	#date{
 		<!--padding: 0em 1em 1em 1em;-->
 		font-size: 12px;
 		margin-bottom: 20px;
@@ -67,11 +67,11 @@ permalink: /writing/
 				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg">
 			</div>
 			<div class="text">
-				<span type="section">IN-DEPTH</span><br />
-				<span type="headline">Esports: the world of competitive gaming</span><br />
+				<span id="section">IN-DEPTH</span><br />
+				<span id="headline">Esports: the world of competitive gaming</span><br />
 			</div>
 		</a>
-		<div class="date">Dec. 11, 2019</div>
+		<div id="date">Dec. 11, 2019</div>
 	</div>
 	
 	<div class="entry">
