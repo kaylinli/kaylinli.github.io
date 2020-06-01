@@ -12,7 +12,8 @@ permalink: /writing/
 	}
 	
 	img{
-		border-radius: 10em;
+		max-width:100%;
+		height:auto;
 	}
 	
 	.image {
