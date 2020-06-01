@@ -13,7 +13,7 @@ permalink: /writing/
 	
 	.image {
 		padding: 0em 0em 0em 0em;
-		border-radius: 180px;
+		border-radius: 10em;
 	}
 	
 	.text {
