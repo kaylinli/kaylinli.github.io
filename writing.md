@@ -11,9 +11,12 @@ permalink: /writing/
 		display: grid;
 	}
 	
+	img{
+		border-radius: 10em;
+	}
+	
 	.image {
 		padding: 0em 0em 0em 0em;
-		border-radius: 10em;
 	}
 	
 	.text {
