@@ -13,8 +13,8 @@ permalink: /writing/
 	
 	img{
 		object-fit: cover;
-		width:12em;
-		height:8em;
+		width:100%;
+		height:70%;
 	}
 	
 	.image {
