@@ -11,6 +11,7 @@ permalink: /writing/
 		display: grid;
 		border-style: solid;
 		border-color: #F5F5F5;
+		padding:-0.5em;
 	}
 	
 	img{
@@ -70,6 +71,8 @@ permalink: /writing/
 <h3>2019-2020 School Year</h3><br />
 
 <section class="grid">
+
+	
 
 	<div class="entry">
 		<div class="image">
