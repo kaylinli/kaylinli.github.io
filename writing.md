@@ -11,7 +11,7 @@ permalink: /writing/
 		display: grid;
 		border-style: solid;
 		border-color: #F5F5F5;
-		padding:-0.5em;
+		padding: 0.5em;
 	}
 	
 	img{
@@ -72,8 +72,6 @@ permalink: /writing/
 
 <section class="grid">
 
-	
-
 	<div class="entry">
 		<div class="image">
 			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
@@ -109,6 +107,21 @@ permalink: /writing/
 <h3>2018-2019 School Year</h3><br />
 
 <section class="grid">
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
+				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">IN-DEPTH</span><br />
+			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
+				<span id="headline">Esports: the world of competitive gaming</span><br />
+			</a>
+			<span id="date">Dec. 11, 2019</span><br />
+		</div>
+	</div>
 	
 	<div class="entry">
 		<div class="image">
