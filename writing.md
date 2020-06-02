@@ -11,7 +11,6 @@ permalink: /writing/
 		display: grid;
 		border-style: solid;
 		border-color: #F5F5F5;;
-		padding: 0.5em;
 	}
 	
 	img{
