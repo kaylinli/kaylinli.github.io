@@ -18,6 +18,7 @@ permalink: /writing/
 		object-fit: cover;
 		width: 100%;
 		height:70%;
+		padding:0em 0em 0em 0em;
 		
 	}
 	
