@@ -16,8 +16,12 @@ permalink: /writing/
 	
 	img{
 		object-fit: cover;
+		
+	}
+	
+	.image{
 		width: 100%;
-		height:7em;
+		height:70%;
 	}
 	
 	.text {
@@ -38,7 +42,7 @@ permalink: /writing/
 	}
 	
 	.no-picture {
-		margin-top:1em;
+		margin-top:0.5em;
 	}
 	
 	#section{
