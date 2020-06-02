@@ -32,8 +32,8 @@ permalink: /writing/
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 		grid-template-rows: auto auto auto;
-		grid-column-gap: 1em;
-		grid-row-gap: 2em;
+		grid-column-gap: 0.5em;
+		grid-row-gap: 1em;
 		
 	}
 	
