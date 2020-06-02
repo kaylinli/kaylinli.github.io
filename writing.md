@@ -12,10 +12,11 @@ permalink: /writing/
 		border-style: solid;
 		border-color: #F5F5F5;
 		grid-auto-rows: auto;
-		padding: 0.5em !important;
+		padding: 0.5em;
 	}
 	
 	img{
+		position: relative
 		object-fit: cover;
 		width: 100%;
 		box-sizing: content-box;
