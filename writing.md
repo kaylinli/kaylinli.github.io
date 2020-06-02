@@ -20,12 +20,8 @@ permalink: /writing/
 		height:7em;
 	}
 	
-	.image {
-		padding: 0em 0em 0em 0em;
-	}
-	
 	.text {
-		margin-bottom: 1em;
+		<!--margin-bottom: 1em;-->
 	}
 	
 	<!--.entry > div{
