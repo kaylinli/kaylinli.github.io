@@ -17,7 +17,7 @@ permalink: /writing/
 	img{
 		object-fit: cover;
 		width: 100%;
-		height:12em;
+		height:10em;
 		padding:0em 0em 0em 0em;
 		
 	}
