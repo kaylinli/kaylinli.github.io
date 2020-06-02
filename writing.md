@@ -14,15 +14,18 @@ permalink: /writing/
 		padding: 0.5em;
 	}
 	
-	img{
-		object-fit: cover;
-		
-	}
-	
 	.image{
 		width: 100%;
 		height:70%;
 	}
+	
+	img{
+		object-fit: cover;
+		width: 100%
+		height: 100%
+		
+	}
+
 	
 	.text {
 		<!--margin-bottom: 1em;-->
