@@ -16,12 +16,13 @@ permalink: /writing/
 	
 	img{
 		object-fit: cover;
+		width: 100%;
+		height:70%;
 		
 	}
 	
 	.image{
-		width: 100%;
-		height:70%;
+		
 	}
 
 	
@@ -123,12 +124,18 @@ permalink: /writing/
 	</div>
 	
 	<div class="entry">
-		<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
-			<img src="https://lhsepic.com/wp-content/uploads/2019/05/full-musical.png"><br />
+		<div class="image">
+			<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
+				<img src="https://lhsepic.com/wp-content/uploads/2019/05/full-musical.png"><br />
+			</a>
+		</div>
+		<div class="text">
 			<span id="section">NEWS</span><br />
-			<span id="headline">Behind the curtain: Lynbrook presents Beauty and the Beast</span>
-		</a><br />
-		<span id="date">May 3, 2019</span>
+			<a href="https://lhsepic.com/5183/news/be-our-guest-behind-the-scenes-of-lynbrooks-spring-musical-backstage-of-beauty-and-the-beast/">
+				<span id="headline">Behind the curtain: Lynbrook presents Beauty and the Beast</span>
+			</a><br />
+			<span id="date">May 3, 2019</span>
+		</div>
 	</div>
 
 	<div class="entry">
