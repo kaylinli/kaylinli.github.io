@@ -18,12 +18,13 @@ permalink: /writing/
 	img{
 		object-fit: cover;
 		width: 100%;
+		box-sizing: content-box;
+		height: 70%;
 		padding:0em 0em 0em 0em;
 		
 	}
 	
 	.image{
-		height: 70%;
 	}
 
 	
