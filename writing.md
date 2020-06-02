@@ -108,12 +108,18 @@ permalink: /writing/
 <section class="grid">
 	
 	<div class="entry">
-		<a href="https://lhsepic.com/5475/in-depth/politics-in-the-digital-age-from-daily-life-to-elections/">
-			<img src="https://lhsepic.com/wp-content/uploads/2019/05/cyberpolitics-1-e1559255674492.png"><br />
+		<div class="image">
+			<a href="https://lhsepic.com/5475/in-depth/politics-in-the-digital-age-from-daily-life-to-elections/">
+				<img src="https://lhsepic.com/wp-content/uploads/2019/05/cyberpolitics-1-e1559255674492.png"><br />
+			</a>
+		</div>
+		<div class="text">
 			<span id="section">IN-DEPTH</span><br />
-			<span id="headline">Politics in the digital age: from daily life to elections</span>
-		</a><br />
-		<span id="date">May 31, 2019</span>
+			<a href="https://lhsepic.com/5475/in-depth/politics-in-the-digital-age-from-daily-life-to-elections/">
+				<span id="headline">Politics in the digital age: from daily life to elections</span>
+			</a><br />
+			<span id="date">May 31, 2019</span>
+		</div>
 	</div>
 	
 	<div class="entry">
