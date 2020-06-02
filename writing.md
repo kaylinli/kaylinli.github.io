@@ -109,17 +109,12 @@ permalink: /writing/
 <section class="grid">
 
 	<div class="entry">
-		<div class="image">
-			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
-				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg">
-			</a>
-		</div>
 		<div class="text">
-			<span id="section">IN-DEPTH</span><br />
-			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
-				<span id="headline">Esports: the world of competitive gaming</span><br />
+			<span id="section">SPORTS</span><br />
+			<a href="https://lhsepic.com/5446/sports/saying-goodbye/">
+				<span id="headline" class="no-picture">Saying goodbye</span><br />
 			</a>
-			<span id="date">Dec. 11, 2019</span><br />
+			<span id="date">May 31, 2019</span><br />
 		</div>
 	</div>
 	
