@@ -52,7 +52,7 @@ permalink: /writing/
 	}
 	
 	#headline{
-		font-size: 1em;
+		font-size: 0.9em;
 		<!--margin-top: 30px;-->
 	}
 	
