@@ -73,6 +73,36 @@ permalink: /writing/
 <section class="grid">
 
 	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/7594/news/collegeboard-modifies-ap-exam-procedures/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/04/share-image.png">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/7594/news/collegeboard-modifies-ap-exam-procedures/">
+				<span id="headline">CollegeBoard modifies AP exam procedures</span><br />
+			</a>
+			<span id="date">April 3, 2020</span><br />
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/7540/news/school-closure-to-be-extended-until-may-1/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/03/corona.png">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/7540/news/school-closure-to-be-extended-until-may-1/">
+				<span id="headline">School closure to be extended until May 1</span><br />
+			</a>
+			<span id="date">March 27, 2020</span><br />
+		</div>
+	</div>
+
+	<div class="entry">
 		<div class="text">
 			<span id="section">NEWS</span><br />
 			<a href="https://lhsepic.com/7520/opinion/a-love-letter-to-wuhan-china/">
