@@ -22,9 +22,10 @@ permalink: /media/
 	}
 	
 	.image{
+		display: block;
 		max-width: 100%;
 		transition: .5s ease;
-  backface-visibility: hidden;
+		backface-visibility: hidden;
 	}
 	
 	.grid {
