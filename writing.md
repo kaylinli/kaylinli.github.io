@@ -16,7 +16,7 @@ permalink: /writing/
 	}
 	
 	img{
-		position: relative
+		position: absolute;
 		object-fit: cover;
 		width: 100%;
 		box-sizing: content-box;
