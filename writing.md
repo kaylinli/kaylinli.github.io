@@ -25,7 +25,7 @@ permalink: /writing/
 	}
 	
 	.image{
-		width: 100%;
+		max-width: 100%;
 	}
 
 	
