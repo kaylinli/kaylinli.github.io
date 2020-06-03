@@ -22,7 +22,7 @@ permalink: /writing/
 		width: 100%;
 		height: 70%;
 		padding:0em 0em 0em 0em;
-		
+		display: block;
 	}
 	
 	.image{
