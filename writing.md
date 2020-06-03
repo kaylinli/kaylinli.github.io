@@ -18,7 +18,8 @@ permalink: /writing/
 	}
 	
 	img{
-		
+		width: 12em;
+		height: 10em;
 		padding:0em 0em 0em 0em;
 		display: block;
 	}
@@ -27,7 +28,6 @@ permalink: /writing/
 		object-fit: cover;
 		position: relative;
 		width: 100%;
-		height: 70%;
 	}
 
 	
