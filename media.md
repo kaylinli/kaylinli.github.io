@@ -6,26 +6,49 @@ permalink: /media/
 <style>
 	.entry{
 		background-color: #F5F5F5;
-		padding: 10px;
+		display: grid;
+		border-style: solid;
+		border-color: #F5F5F5;
+		grid-auto-rows: auto;
+		padding: 5%;
+		position: relative;
+		box-sizing: border-box;
+	}
+	
+	img{
+		object-fit: cover;
+		width: 12em;
+		height: 7em;
+		padding:0em 0em 0em 0em;
+	}
+	
+	.image{
+		max-width: 100%;
 	}
 	
 	.grid {
 		display: grid;
-		grid-template-columns: 265px 265px 265px;
+		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
 		grid-template-rows: auto auto auto;
-		grid-gap: 15px;
+		grid-column-gap: 0.5em;
+		grid-row-gap: 1em;
 	}
 	
-	[type='headline']{
-		font-size: 20px;
+	#mediatype{
+		font-size: 0.7em;
 	}
 	
-	[type='collaborators']{
-		font-size: 12px;
+	#headline{
+		font-size: 0.9em;
+		<!--margin-top: 30px;-->
 	}
 	
-	[type='date']{
-		font-size: 12px;
+	#collaborators{
+		font-size: 0.6em;
+	}
+	
+	#date{
+		font-size: 0.6em;
 	}
 </style>
 
@@ -40,11 +63,15 @@ permalink: /media/
 <section class="grid">
 
 	<div class="entry">
-		<a href="https://lhsepic.com/6478/web-exclusive/homecoming-football-game-19-20/">
-			<img src="https://lhsepic.com/wp-content/uploads/2019/11/IMG_3761.jpg"><br />
+		<div class="image">
+			<a href="https://lhsepic.com/6478/web-exclusive/homecoming-football-game-19-20/">
+				<img src="https://lhsepic.com/wp-content/uploads/2019/11/IMG_3761.jpg"><br />
+			</a>
+		</div>
+		<div class="text">
 			Homecoming: Football Game 19-20<br />
-			<span type="date">Nov. 1, 2019</span>
-		</a>
+			<span id="date">Nov. 1, 2019</span>
+		</div>
 	</div>
 	
 	<div class="entry">
