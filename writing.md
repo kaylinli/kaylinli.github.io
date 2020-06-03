@@ -12,7 +12,7 @@ permalink: /writing/
 		border-style: solid;
 		border-color: #F5F5F5;
 		grid-auto-rows: auto;
-		padding: 40%;
+		padding: 5%;
 		position: relative;
 		box-sizing: border-box;
 	}
