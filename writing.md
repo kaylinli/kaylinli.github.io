@@ -12,14 +12,14 @@ permalink: /writing/
 		border-style: solid;
 		border-color: #F5F5F5;
 		grid-auto-rows: auto;
-		padding: 0.5em;
+		padding: 40%;
+		position: relative;
+		box-sizing: border-box;
 	}
 	
 	img{
-		position: absolute;
 		object-fit: cover;
 		width: 100%;
-		box-sizing: content-box;
 		height: 70%;
 		padding:0em 0em 0em 0em;
 		
