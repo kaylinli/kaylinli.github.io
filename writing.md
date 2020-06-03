@@ -81,9 +81,9 @@ permalink: /writing/
 		<div class="text">
 			<span id="section">NEWS</span><br />
 			<a href="https://lhsepic.com/7272/sports/insight-into-the-coach-hiring-process-at-lynbrook/">
-				<span id="headline">Wellness Panel prepares freshmen for their high school journeys</span><br />
+				<span id="headline">Insight into the coach hiring process at Lynbrook</span><br />
 			</a>
-			<span id="date">Dec. 29, 2019</span><br />
+			<span id="date">Feb. 26, 2020</span><br />
 		</div>
 	</div>
 
