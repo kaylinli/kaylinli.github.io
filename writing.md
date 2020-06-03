@@ -73,6 +73,17 @@ permalink: /writing/
 <section class="grid">
 
 	<div class="entry">
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/7520/opinion/a-love-letter-to-wuhan-china/">
+				<span id="headline" class="no-picture">A love letter to Wuhan, China</span><br />
+			</a>
+			<span id="date">March 15, 2020</span><br />
+		</div>
+	</div>
+
+
+	<div class="entry">
 		<div class="image">
 			<a href="https://lhsepic.com/7444/news/lynbrook-to-be-closed-for-three-weeks-in-response-to-covid-19/">
 				<img src="https://lhsepic.com/wp-content/uploads/2020/03/IMG_6761-900x600.jpg">
