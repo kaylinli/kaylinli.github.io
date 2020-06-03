@@ -23,6 +23,8 @@ permalink: /media/
 	
 	.image{
 		max-width: 100%;
+		transition: .5s ease;
+  backface-visibility: hidden;
 	}
 	
 	.grid {
