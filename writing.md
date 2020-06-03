@@ -20,7 +20,7 @@ permalink: /writing/
 	img{
 		object-fit: cover;
 		width: 12em;
-		height: 10em;
+		height: 8em;
 		padding:0em 0em 0em 0em;
 	}
 	
