@@ -18,15 +18,13 @@ permalink: /writing/
 	}
 	
 	img{
+		object-fit: cover;
 		width: 12em;
 		height: 10em;
 		padding:0em 0em 0em 0em;
-		display: block;
 	}
 	
 	.image{
-		object-fit: cover;
-		position: relative;
 		width: 100%;
 	}
 
