@@ -28,6 +28,25 @@ permalink: /media/
 		backface-visibility: hidden;
 	}
 	
+	.text{
+		transition: .5s ease;
+		opacity: 0;
+		position: absolute;
+		top: 50%;
+		left: 50%;
+		transform: translate(-50%, -50%);
+		-ms-transform: translate(-50%, -50%);
+		text-align: center;
+	}
+	
+	.entry:hover .image {
+	  opacity: 0.3;
+	}
+
+	.entry:hover .text {
+	  opacity: 1;
+	}
+	
 	.grid {
 		display: grid;
 		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
@@ -41,14 +60,6 @@ permalink: /media/
 	}
 	
 	#headline{
-		transition: .5s ease;
-		opacity: 0;
-		position: absolute;
-		top: 50%;
-		left: 50%;
-		transform: translate(-50%, -50%);
-		-ms-transform: translate(-50%, -50%);
-		text-align: center;
 		font-size: 0.9em;
 		<!--margin-top: 30px;-->
 	}
