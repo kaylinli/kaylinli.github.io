@@ -33,9 +33,6 @@ permalink: /writing/
 		<!--margin-bottom: 1em;-->
 	}
 	
-	<!--.entry > div{
-		padding:0em 1em 0em 1em;
-	}-->
 	
 	.grid{
 		display: grid;
