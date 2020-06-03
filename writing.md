@@ -74,6 +74,21 @@ permalink: /writing/
 
 	<div class="entry">
 		<div class="image">
+			<a href="https://lhsepic.com/7444/news/lynbrook-to-be-closed-for-three-weeks-in-response-to-covid-19/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/03/IMG_6761-900x600.jpg">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/7444/news/lynbrook-to-be-closed-for-three-weeks-in-response-to-covid-19/">
+				<span id="headline">Lynbrook to be closed for three weeks in response to COVID-19</span><br />
+			</a>
+			<span id="date">March 15, 2020</span><br />
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
 			<a href="https://lhsepic.com/7272/sports/insight-into-the-coach-hiring-process-at-lynbrook/">
 				<img src="https://lhsepic.com/wp-content/uploads/2020/02/Hiring-process-1-1.jpg">
 			</a>
