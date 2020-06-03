@@ -20,7 +20,7 @@ permalink: /writing/
 	img{
 		object-fit: cover;
 		width: 12em;
-		height: 8em;
+		height: 6em;
 		padding:0em 0em 0em 0em;
 	}
 	
@@ -71,6 +71,21 @@ permalink: /writing/
 <h3>2019-2020 School Year</h3><br />
 
 <section class="grid">
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/05/20200527084631_IMG_7022.jpg">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
+				<span id="headline">Senior graduation goes virtual</span><br />
+			</a>
+			<span id="date">May 25, 2020</span><br />
+		</div>
+	</div>
 
 	<div class="entry">
 		<div class="image">
