@@ -77,7 +77,7 @@ permalink: /media/
 		</div>
 		<div class="text">
 			<a href="https://lhsepic.com/6478/web-exclusive/homecoming-football-game-19-20/">
-				<span id="headline">Homecoming: Football Game 19-20<br />
+				<span id="headline">Homecoming: Football Game 19-20</span><br />
 			<span id="date">Nov. 1, 2019</span>
 		</div>
 	</div>
