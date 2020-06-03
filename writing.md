@@ -74,6 +74,21 @@ permalink: /writing/
 
 	<div class="entry">
 		<div class="image">
+			<a href="https://lhsepic.com/7794/opinion/unity-in-the-face-of-coronavirus/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/05/unity.png">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">OPINION</span><br />
+			<a href="https://lhsepic.com/7794/opinion/unity-in-the-face-of-coronavirus/">
+				<span id="headline">Unity in the face of the coronavirus</span><br />
+			</a>
+			<span id="date">May 25, 2020</span><br />
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
 			<a href="https://lhsepic.com/7662/news/commuting-via-via-cupertino/">
 				<img src="https://lhsepic.com/wp-content/uploads/2020/04/Via-Cupertino-Graphic.jpg">
 			</a>
@@ -120,7 +135,7 @@ permalink: /writing/
 
 	<div class="entry">
 		<div class="text">
-			<span id="section">NEWS</span><br />
+			<span id="section">OPINION</span><br />
 			<a href="https://lhsepic.com/7520/opinion/a-love-letter-to-wuhan-china/">
 				<span id="headline" class="no-picture">A love letter to Wuhan, China</span><br />
 			</a>
@@ -151,7 +166,7 @@ permalink: /writing/
 			</a>
 		</div>
 		<div class="text">
-			<span id="section">NEWS</span><br />
+			<span id="section">SPORTS</span><br />
 			<a href="https://lhsepic.com/7272/sports/insight-into-the-coach-hiring-process-at-lynbrook/">
 				<span id="headline">Insight into the coach hiring process at Lynbrook</span><br />
 			</a>
