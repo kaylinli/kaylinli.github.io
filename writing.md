@@ -74,6 +74,21 @@ permalink: /writing/
 
 	<div class="entry">
 		<div class="image">
+			<a href="https://lhsepic.com/7272/sports/insight-into-the-coach-hiring-process-at-lynbrook/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/02/Hiring-process-1-1.jpg">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/7272/sports/insight-into-the-coach-hiring-process-at-lynbrook/">
+				<span id="headline">Wellness Panel prepares freshmen for their high school journeys/span><br />
+			</a>
+			<span id="date">Dec. 29, 2019</span><br />
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
 			<a href="https://lhsepic.com/6967/news/freshman-wellness-panel-prepares-freshmen-for-their-high-school-journeys/">
 				<img src="https://lhsepic.com/wp-content/uploads/2019/12/IMG_5192twisha-1-e1577682715997.jpg">
 			</a>
