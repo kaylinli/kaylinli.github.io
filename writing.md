@@ -71,8 +71,6 @@ permalink: /writing/
 <h3>2019-2020 School Year</h3><br />
 
 <section class="grid">
-	
-	
 
 	<div class="entry">
 		<div class="image">
@@ -86,6 +84,22 @@ permalink: /writing/
 				<span id="headline">Commuting via Via Cupertino</span><br />
 			</a>
 			<span id="date">April 10, 2020</span><br />
+		</div>
+	</div>
+
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/7594/news/collegeboard-modifies-ap-exam-procedures/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/04/share-image.png">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/7594/news/collegeboard-modifies-ap-exam-procedures/">
+				<span id="headline">CollegeBoard modifies AP exam procedures</span><br />
+			</a>
+			<span id="date">April 3, 2020</span><br />
 		</div>
 	</div>
 
