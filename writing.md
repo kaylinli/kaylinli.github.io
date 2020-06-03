@@ -81,7 +81,7 @@ permalink: /writing/
 		<div class="text">
 			<span id="section">NEWS</span><br />
 			<a href="https://lhsepic.com/7272/sports/insight-into-the-coach-hiring-process-at-lynbrook/">
-				<span id="headline">Wellness Panel prepares freshmen for their high school journeys/span><br />
+				<span id="headline">Wellness Panel prepares freshmen for their high school journeys</span><br />
 			</a>
 			<span id="date">Dec. 29, 2019</span><br />
 		</div>
@@ -96,7 +96,7 @@ permalink: /writing/
 		<div class="text">
 			<span id="section">NEWS</span><br />
 			<a href="https://lhsepic.com/6967/news/freshman-wellness-panel-prepares-freshmen-for-their-high-school-journeys/">
-				<span id="headline">Wellness Panel prepares freshmen for their high school journeys/span><br />
+				<span id="headline">Wellness Panel prepares freshmen for their high school journeys</span><br />
 			</a>
 			<span id="date">Dec. 29, 2019</span><br />
 		</div>
