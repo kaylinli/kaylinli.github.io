@@ -5,7 +5,6 @@ permalink: /media/
 ---
 <style>
 	.entry{
-		background-color: #F5F5F5;
 		display: grid;
 		border-style: solid;
 		border-color: #F5F5F5;
