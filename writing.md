@@ -74,6 +74,21 @@ permalink: /writing/
 
 	<div class="entry">
 		<div class="image">
+			<a href="https://lhsepic.com/6967/news/freshman-wellness-panel-prepares-freshmen-for-their-high-school-journeys/">
+				<img src="https://lhsepic.com/wp-content/uploads/2019/12/IMG_5192twisha-1-e1577682715997.jpg">
+			</a>
+		</div>
+		<div class="text">
+			<span id="section">NEWS</span><br />
+			<a href="https://lhsepic.com/6967/news/freshman-wellness-panel-prepares-freshmen-for-their-high-school-journeys/">
+				<span id="headline">Wellness Panel prepares freshmen for their high school journeys/span><br />
+			</a>
+			<span id="date">Dec. 29, 2019</span><br />
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
 			<a href="https://lhsepic.com/6915/in-depth/esports-the-world-of-competitive-gaming/">
 				<img src="https://lhsepic.com/wp-content/uploads/2019/12/esports.jpg">
 			</a>
