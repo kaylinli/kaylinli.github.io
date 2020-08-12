@@ -75,7 +75,7 @@ permalink: /media/
 
 <h2>Media</h2>
 
-<p>Here are some of the photos that I've taken and layouts and graphics I've designed <i>the Epic</i>.
+<p>Here are some of my photos, graphics, and layouts I've worked on for <i>the Epic</i>.
 
 <h3>Photos</h3>
 
