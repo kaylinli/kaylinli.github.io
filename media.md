@@ -144,8 +144,8 @@ permalink: /media/
 
 	<div class="entry">
 		<div class="image">
-			<a href="https://lhsepic.com/wp-content/uploads/2020/02/decaderecapcover-1-476x900.png">
-				<img src="https://lhsepic.com/7206/features/decade/"><br />
+			<a href="https://lhsepic.com/7206/features/decade/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/02/decaderecapcover-1-476x900.png"><br />
 			</a>
 		</div>
 		<div class="text">
@@ -153,6 +153,20 @@ permalink: /media/
 				<span id="headline">2010s Decade Recap cover photo</span><br />
 			</a>
 			<span id="date">Feb. 24, 2020</span>
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://www.facebook.com/lhs.epic/posts/2735302783231705">
+				<img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/84279648_2735295946565722_3797907685702107136_o.jpg?_nc_cat=104&_nc_sid=730e14&_nc_ohc=rFsVmnG8SsEAX_R2RNp&_nc_ht=scontent-sjc3-1.xx&oh=38e9eefaf3bf4cfbbfaa6cd009424ae0&oe=5F59E60B"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://www.facebook.com/lhs.epic/posts/2735302783231705">
+				<span id="headline">Vertigo Bittergrams photos</span><br />
+			</a>
+			<span id="date">Feb. 14, 2020</span>
 		</div>
 	</div>
 
