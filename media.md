@@ -21,12 +21,12 @@ permalink: /media/
 		padding:0em 0em 0em 0em;
 	}
 	
-	.image{
+	/* .image{
 		display: block;
 		max-width: 100%;
 		transition: .5s ease;
 		backface-visibility: hidden;
-	}
+	} */
 	
 	.text{
 		transition: .5s ease;
@@ -39,13 +39,13 @@ permalink: /media/
 		text-align: center;
 	}
 	
-	.entry:hover .image {
+	/* .entry:hover .image {
 	  opacity: 0.3;
 	}
 
 	.entry:hover .text {
 	  opacity: 1;
-	}
+	} */
 	
 	.grid {
 		display: grid;
@@ -83,6 +83,7 @@ permalink: /media/
 
 <section class="grid">
 
+
 	<div class="entry">
 		<div class="image">
 			<a href="https://www.facebook.com/lhs.epic/photos/a.474756225953050/2838731396222176/">
@@ -94,6 +95,20 @@ permalink: /media/
 				<span id="headline">Coronavirus graphic series on Facebook and Instagram</span><br />
 			</a>
 			<span id="date">April 2020</span>
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://www.instagram.com/p/B9np-THpevl/?utm_source=ig_web_copy_link">
+				<img src="https://www.instagram.com/p/B9np-THpevl/media/?size=l"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://www.instagram.com/p/B9np-THpevl/?utm_source=ig_web_copy_link">
+				<span id="headline">Informational graphic on the Epic</span><br />
+			</a>
+			<span id="date">March 11, 2020</span>
 		</div>
 	</div>
 
