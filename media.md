@@ -84,19 +84,7 @@ permalink: /media/
 
 <section class="grid">
 
-	<div class="entry">
-		<div class="image">
-			<a href="https://lhsepic.com/wp-content/uploads/2020/02/decaderecapcover-1-476x900.png">
-				<img src="https://lhsepic.com/7206/features/decade/"><br />
-			</a>
-		</div>
-		<div class="text">
-			<a href="https://lhsepic.com/7206/features/decade/">
-				<span id="headline">2010s Decade Recap cover photo</span><br />
-			</a>
-			<span id="date">Feb. 24, 2020</span>
-		</div>
-	</div>
+	
 
 
 	<div class="entry">
@@ -123,7 +111,7 @@ permalink: /media/
 			<a href="https://www.facebook.com/lhs.epic/photos/a.474756225953050/2838731396222176/">
 				<span id="headline">Images of coronavirus cleaning at school</span><br />
 			</a>
-			<span id="date">March 16 2020</span>
+			<span id="date">March 16, 2020</span>
 		</div>
 	</div>
 
@@ -138,6 +126,34 @@ permalink: /media/
 				<span id="headline">Informational graphic on the Epic</span><br />
 			</a>
 			<span id="date">March 11, 2020</span>
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://www.facebook.com/lhs.epic/posts/2772228176205832">
+				<img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/89043867_2772222006206449_8329329655949557760_o.jpg?_nc_cat=103&_nc_sid=730e14&_nc_ohc=COzdpKSm3oEAX_xcxdy&_nc_ht=scontent-sjc3-1.xx&oh=8c954fd4d2547eb8238186dd8454f693&oe=5F596B23"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://www.facebook.com/lhs.epic/posts/2772228176205832">
+				<span id="headline">Neuroscience and Pre-medicine Club medical circuit activity photos</span><br />
+			</a>
+			<span id="date">March 2, 2020</span>
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/wp-content/uploads/2020/02/decaderecapcover-1-476x900.png">
+				<img src="https://lhsepic.com/7206/features/decade/"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://lhsepic.com/7206/features/decade/">
+				<span id="headline">2010s Decade Recap cover photo</span><br />
+			</a>
+			<span id="date">Feb. 24, 2020</span>
 		</div>
 	</div>
 
