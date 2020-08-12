@@ -127,12 +127,12 @@ permalink: /media/
 
 	<div class="entry">
 		<div class="image">
-			<a href="https://www.facebook.com/lhs.epic/photos/a.474756225953050/2838731396222176/">
-				<img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/91453706_2838731399555509_4179634723884105728_o.png?_nc_cat=108&_nc_sid=730e14&_nc_ohc=ODn3TU6nECAAX-hr2ql&_nc_ht=scontent-sjc3-1.xx&oh=5ac9aa98808bb13dedf0629ecce6f5f3&oe=5F5A7D40"><br />
+			<a href="https://www.facebook.com/lhs.epic/posts/2800558100039506">
+				<img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/89588947_2800555293373120_8803371050449502208_o.jpg?_nc_cat=108&_nc_sid=730e14&_nc_ohc=EnmA6oYg__QAX8J6akp&_nc_ht=scontent-sjc3-1.xx&oh=0868a27225a1289e53287e2db4e5d86e&oe=5F5ADDA9"><br />
 			</a>
 		</div>
 		<div class="text">
-			<a href="https://www.facebook.com/lhs.epic/photos/a.474756225953050/2838731396222176/">
+			<a href="https://www.facebook.com/lhs.epic/posts/2800558100039506">
 				<span id="headline">Images of coronavirus cleaning at school</span><br />
 			</a>
 			<span id="date">March 16, 2020</span>
