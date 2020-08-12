@@ -75,7 +75,7 @@ permalink: /media/
 
 <h2>Media</h2>
 
-<p>Here are some of my photos, graphics, and layouts I've worked on for <i>the Epic</i>.
+<p>Here are some of my photos, graphics, and layouts I've worked on for <a href="www.lhsepic.com"><i>the Epic</i></a>.
 
 <h3>Photos</h3>
 
