@@ -12,6 +12,7 @@ permalink: /media/
 		padding: 5%;
 		position: relative;
 		box-sizing: border-box;
+		height: 7em;
 	}
 	
 	img{
@@ -21,12 +22,12 @@ permalink: /media/
 		padding:0em 0em 0em 0em;
 	}
 	
-	/* .image{
+	.image{
 		display: block;
 		max-width: 100%;
 		transition: .5s ease;
 		backface-visibility: hidden;
-	} */
+	}
 	
 	.text{
 		transition: .5s ease;
@@ -39,13 +40,13 @@ permalink: /media/
 		text-align: center;
 	}
 	
-	/* .entry:hover .image {
+	.entry:hover .image {
 	  opacity: 0.3;
 	}
 
 	.entry:hover .text {
 	  opacity: 1;
-	} */
+	}
 	
 	.grid {
 		display: grid;
@@ -83,6 +84,20 @@ permalink: /media/
 
 <section class="grid">
 
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/wp-content/uploads/2020/02/decaderecapcover-1-476x900.png">
+				<img src="https://lhsepic.com/7206/features/decade/"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://lhsepic.com/7206/features/decade/">
+				<span id="headline">2010s Decade Recap cover photo</span><br />
+			</a>
+			<span id="date">Feb. 24, 2020</span>
+		</div>
+	</div>
+
 
 	<div class="entry">
 		<div class="image">
@@ -95,6 +110,20 @@ permalink: /media/
 				<span id="headline">Coronavirus graphic series on Facebook and Instagram</span><br />
 			</a>
 			<span id="date">April 2020</span>
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
+			<a href="https://www.facebook.com/lhs.epic/photos/a.474756225953050/2838731396222176/">
+				<img src="https://scontent-sjc3-1.xx.fbcdn.net/v/t1.0-9/91453706_2838731399555509_4179634723884105728_o.png?_nc_cat=108&_nc_sid=730e14&_nc_ohc=ODn3TU6nECAAX-hr2ql&_nc_ht=scontent-sjc3-1.xx&oh=5ac9aa98808bb13dedf0629ecce6f5f3&oe=5F5A7D40"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://www.facebook.com/lhs.epic/photos/a.474756225953050/2838731396222176/">
+				<span id="headline">Images of coronavirus cleaning at school</span><br />
+			</a>
+			<span id="date">March 16 2020</span>
 		</div>
 	</div>
 
