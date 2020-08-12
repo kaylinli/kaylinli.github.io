@@ -83,6 +83,19 @@ permalink: /media/
 
 <section class="grid">
 
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/8023/multimedia/covid-19-podcast-valhalla/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/05/COVID-19.png"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://lhsepic.com/8023/multimedia/covid-19-podcast-valhalla/">
+				<span id="headline">COVID-19 podcast graphic</span><br />
+			</a>
+			<span id="date">May 25, 2020</span>
+		</div>
+	</div>
 	
 	<div class="entry">
 		<div class="image">
