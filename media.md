@@ -39,13 +39,13 @@ permalink: /media/
 		text-align: center;
 	}
 	
-	.entry:hover .image {
+	/* .entry:hover .image {
 	  opacity: 0.3;
 	}
 
 	.entry:hover .text {
 	  opacity: 1;
-	}
+	} */
 	
 	.grid {
 		display: grid;
@@ -84,7 +84,19 @@ permalink: /media/
 <section class="grid">
 
 	
-
+	<div class="entry">
+		<div class="image">
+			<a href="https://lhsepic.com/7794/opinion/unity-in-the-face-of-coronavirus/">
+				<img src="https://lhsepic.com/wp-content/uploads/2020/05/unity.png"><br />
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://lhsepic.com/7794/opinion/unity-in-the-face-of-coronavirus/">
+				<span id="headline">Rosie-the-Riveter-inspired graphic for my story, "Unity in the face of the coronavirus"</span><br />
+			</a>
+			<span id="date">May 25, 2020</span>
+		</div>
+	</div>
 
 	<div class="entry">
 		<div class="image">
