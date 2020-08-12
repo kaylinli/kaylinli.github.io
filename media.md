@@ -28,7 +28,7 @@ permalink: /media/
 		backface-visibility: hidden;
 	}
 	
-	.text{
+	/* .text{
 		transition: .5s ease;
 		opacity: 0;
 		position: relative;
@@ -37,7 +37,7 @@ permalink: /media/
 		transform: translate(-50%, -50%);
 		-ms-transform: translate(-50%, -50%);
 		text-align: center;
-	}
+	} */
 	
 	/* .entry:hover .image {
 	  opacity: 0.3;
