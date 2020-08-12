@@ -12,7 +12,6 @@ permalink: /media/
 		padding: 5%;
 		position: relative;
 		box-sizing: border-box;
-		height: 7em;
 	}
 	
 	img{
