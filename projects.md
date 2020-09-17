@@ -98,7 +98,7 @@ permalink: /projects/
 				<span id="headline">Intern in Science Engineering Apprenticeship Program</span><br />
 				<span>Developed sonar data analysis platform at Naval Postgraduate School</span><br />
 			</a>
-			<span id="date">May 25, 2020</span><br />
+			<span id="date">June-Aug 2019, 2020/span><br />
 		</div>
 	</div>
 
