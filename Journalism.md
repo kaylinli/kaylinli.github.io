@@ -8,6 +8,7 @@ permalink: /journalism/
 		width:500px;
 		background-color: #FAFAFA;
 		padding: 10px;
+		border-radius: 5px;
 	}
 	
 	.headline{
