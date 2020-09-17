@@ -73,14 +73,14 @@ permalink: /projects/
 
 	<div class="entry">
 		<div class="image">
-			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
-				<img src="https://lhsepic.com/wp-content/uploads/2020/05/20200527084631_IMG_7022.jpg">
+			<a href="https://github.com/shruthikmusukula/homeroom">
+				<img src="https://raw.githubusercontent.com/mchow101/homeroom/todo/images/homeroom.png">
 			</a>
 		</div>
 		<div class="text">
-			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
+			<a href="https://github.com/shruthikmusukula/homeroom">
 				<span id="headline">HomeRoom Developer</span><br />
-				<span>Developed productivity</span>
+				<span>Developed productivity app at HackIllinois</span><br />
 			</a>
 			<span id="date">Aug 2020</span><br />
 		</div>
@@ -88,15 +88,15 @@ permalink: /projects/
 
 	<div class="entry">
 		<div class="image">
-			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
-				<img src="https://lhsepic.com/wp-content/uploads/2020/05/20200527084631_IMG_7022.jpg">
+			<a href="https://github.com/shruthikmusukula/DiDAP">
+				<img src="https://raw.githubusercontent.com/shruthikmusukula/DiDAP/master/fig1.PNG">
 			</a>
 		</div>
 		<div class="text">
 			<span id="section">MONTEREY, CA</span><br />
-			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
+			<a href="https://github.com/shruthikmusukula/DiDAP">
 				<span id="headline">Intern in Science Engineering Apprenticeship Program</span><br />
-				<span>Developed sonar data analysis platform at Naval Postgraduate School</span>
+				<span>Developed sonar data analysis platform at Naval Postgraduate School</span><br />
 			</a>
 			<span id="date">May 25, 2020</span><br />
 		</div>
