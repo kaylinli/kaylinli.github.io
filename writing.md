@@ -15,6 +15,7 @@ permalink: /writing/
 		padding: 5%;
 		position: relative;
 		box-sizing: border-box;
+		border-radius: 5px;
 	}
 	
 	img{
