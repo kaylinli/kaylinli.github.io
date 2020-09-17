@@ -96,9 +96,9 @@ permalink: /projects/
 			<span id="section">MONTEREY, CA</span><br />
 			<a href="https://github.com/shruthikmusukula/DiDAP">
 				<span id="headline">Intern in Science Engineering Apprenticeship Program</span><br />
-				<span>Developed sonar data analysis platform at Naval Postgraduate School</span><br />
+				<span id="section">Developed sonar data analysis platform at Naval Postgraduate School</span><br />
 			</a>
-			<span id="date">June-Aug 2019, 2020/span><br />
+			<span id="date">June-Aug 2019, 2020</span><br />
 		</div>
 	</div>
 
