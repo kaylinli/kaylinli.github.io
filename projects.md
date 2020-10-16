@@ -16,6 +16,7 @@ permalink: /projects/
 		padding: 5%;
 		position: relative;
 		box-sizing: border-box;
+		border-radius: 5px;
 	}
 	
 	img{
@@ -37,7 +38,7 @@ permalink: /projects/
 	
 	.grid{
 		display: grid;
-		grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+		grid-template-columns: repeat(auto-fit, minmax(180px, 2fr));
 		grid-template-rows: auto auto auto;
 		grid-column-gap: 0.5em;
 		grid-row-gap: 1em;
