@@ -11,7 +11,7 @@ Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studyi
 
 <!-- https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link -->
 <button onclick="window.location.href='/projects'">Computer Science projects</button>
-</br>
+<br />
 <button onclick="window.location.href='/journalism'">Journalism</button>
 <!-- <h2><a href="https://kaylinli.github.io/projects">CS projects</a><h2> -->
 <!-- <h2><a href="https://kaylinli.github.io/journalism">Journalism</a><h2> -->
