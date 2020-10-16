@@ -66,6 +66,7 @@ permalink: /projects/
 	
 </style>
 
+
 <h2>Writing</h2>
 
 <p>Here are some of the projects I've been working on!</p>
