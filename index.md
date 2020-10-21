@@ -3,6 +3,11 @@ layout: default
 title: Welcome!
 ---
 <style>
+    input[type=button]{
+        background-color: #4CAF50;
+        outline: black
+        /* color: black */
+    }
     /* .btn{
         background-color: white
         outline: black
