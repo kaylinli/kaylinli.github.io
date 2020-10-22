@@ -3,22 +3,22 @@ layout: default
 title: Welcome!
 ---
 <style>
-    input[type=button]{
+    /* input[type=button]{
         background-color: #4CAF50;
         outline: black
         /* color: black */
-    }
-    /* .btn{
+    } */
+    .link{
         background-color: white
         outline: black
-    } */
+    }
 </style>
 Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studying Statistics and Data Science, and other computer science related things. Here you'll find a little more about me, and some of the work that I've done.
 
 <!-- https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link -->
-<button onclick="window.location.href='/projects'" class="btn">Computer Science projects</button>
+<button onclick="window.location.href='/projects'" class="link">Computer Science projects</button>
 <br>
-<button onclick="window.location.href='/journalism'" class="btn">Journalism</button>
+<button onclick="window.location.href='/journalism'" class="link">Journalism</button>
 <!-- <h2><a href="https://kaylinli.github.io/projects">CS projects</a><h2> -->
 <!-- <h2><a href="https://kaylinli.github.io/journalism">Journalism</a><h2> -->
 
