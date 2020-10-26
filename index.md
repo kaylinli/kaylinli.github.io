@@ -3,11 +3,11 @@ layout: default
 title: Welcome!
 ---
 <style>
-    /* input[type=button]{
-        background-color: #4CAF50;
-        outline: black
-        /* color: black */
-    } */
+    input[type=button]{
+        background-color: #157878
+        outline: #157878
+        color: #157878
+    }
     .link{
         background-color: white
         outline: black
