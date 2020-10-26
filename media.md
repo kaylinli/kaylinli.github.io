@@ -156,7 +156,7 @@ permalink: /media/
 	<div class="entry">
 		<div class="image">
 			<a href="https://www.facebook.com/lhs.epic/posts/2772228176205832">
-				<img src="/img/medcircuit.png"><br />
+				<img src="/img/medcircuit.jpg"><br />
 			</a>
 		</div>
 		<div class="text">
