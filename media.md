@@ -77,7 +77,7 @@ permalink: /media/
 
 <p>Here are some of my photos, graphics, and layouts I've worked on for <a href="www.lhsepic.com"><i>the Epic</i></a>.
 
-<h3>Photos</h3>
+<h3>Photos/Graphics</h3>
 
 <h4>2019-2020 School Year</h4>
 
@@ -156,7 +156,7 @@ permalink: /media/
 	<div class="entry">
 		<div class="image">
 			<a href="https://www.facebook.com/lhs.epic/posts/2772228176205832">
-				<img src="/img/epicinfo.png"><br />
+				<img src="/img/medcircuit.png"><br />
 			</a>
 		</div>
 		<div class="text">
@@ -244,6 +244,7 @@ permalink: /media/
 <h3>Graphics and Design</h3>
 
 <h4>2019-2020 School Year</h4>
+-not completely updated-
 
 <section class="grid">
 
