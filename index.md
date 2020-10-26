@@ -8,21 +8,34 @@ title: Welcome!
         outline: #157878
         color: #157878
     }
+
+    /* based on btn class from Jekyll Cayman */
+    /* https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss */
     .link{
         background-color: white
         outline: black
         font-size: 18em
         padding: 2em
+        display: inline-block;
+        margin-bottom: 1rem;
+        /* #157878 = rgba(21, 120, 120*/
+        color: rgba(21, 120, 120, 0.7);
+        /* background-color: rgba(255, 255, 255, 0.08); */
+        border-color: rgba(21, 120, 120, 0.7);
+        border-style: solid;
+        border-width: 1px;
+        border-radius: 0.3rem;
+        transition: color 0.2s, background-color 0.2s, border-color 0.2s;
     }
 </style>
 Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studying Statistics and Data Science, and other computer science related things. Here you'll find a little more about me, and some of the work that I've done.
 
 <!-- https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link -->
-<button onclick="window.location.href='/projects'" class="link">Computer Science projects</button>
-<br>
-<button onclick="window.location.href='/journalism'" class="link">Journalism</button>
-<!-- <h2><a href="https://kaylinli.github.io/projects">CS projects</a><h2> -->
-<!-- <h2><a href="https://kaylinli.github.io/journalism">Journalism</a><h2> -->
+<!-- <button onclick="window.location.href='/projects'" class="link">Computer Science projects</button> -->
+<!-- <br> -->
+<!-- <button onclick="window.location.href='/journalism'" class="link">Journalism</button> -->
+<h2><a href="https://kaylinli.github.io/projects">CS projects</a><h2>
+<h2><a href="https://kaylinli.github.io/journalism">Journalism</a><h2>
 
 <h3>Connect with me on:</h3>
 <h4>LinkedIn: 
