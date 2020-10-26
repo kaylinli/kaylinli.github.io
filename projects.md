@@ -76,7 +76,7 @@ permalink: /projects/
 	<div class="entry">
 		<div class="image">
 			<a href="https://kaylinli.github.io/SentenceMosaicsWebsite/">
-				<img src="/sentencemosaicswebsite.png">
+				<img src="/img/sentencemosaicswebsite.png">
 			</a>
 		</div>
 		<div class="text">
@@ -91,7 +91,7 @@ permalink: /projects/
 	<div class="entry">
 		<div class="image">
 			<a href="https://github.com/shruthikmusukula/homeroom">
-				<img src="/homeroomtask.png">
+				<img src="/img/homeroomtask.png">
 			</a>
 		</div>
 		<div class="text">
