@@ -67,7 +67,7 @@ permalink: /projects/
 </style>
 
 
-<h2>Writing</h2>
+<h2>CS projects</h2>
 
 <p>Here are some of the projects I've been working on!</p>
 
@@ -75,8 +75,23 @@ permalink: /projects/
 
 	<div class="entry">
 		<div class="image">
+			<a href="https://kaylinli.github.io/SentenceMosaicsWebsite/">
+				<img src="/sentencemosaicswebsite.png">
+			</a>
+		</div>
+		<div class="text">
+			<a href="https://kaylinli.github.io/SentenceMosaicsWebsite/">
+				<span id="headline">Sentence Mosaics website</span><br />
+				<span>Developed website</span><br />
+			</a>
+			<span id="date">Sept 2020 - present</span><br />
+		</div>
+	</div>
+
+	<div class="entry">
+		<div class="image">
 			<a href="https://github.com/shruthikmusukula/homeroom">
-				<img src="https://raw.githubusercontent.com/mchow101/homeroom/todo/images/homeroom.png">
+				<img src="/homeroomtask.png">
 			</a>
 		</div>
 		<div class="text">
