@@ -34,8 +34,8 @@ Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studyi
 <!-- <button onclick="window.location.href='/projects'" class="link">Computer Science projects</button> -->
 <!-- <br> -->
 <!-- <button onclick="window.location.href='/journalism'" class="link">Journalism</button> -->
-<h2><a href="https://kaylinli.github.io/projects">CS projects</a><h2>
-<h2><a href="https://kaylinli.github.io/journalism">Journalism</a><h2>
+<h2><a href="https://kaylinli.github.io/projects" class="link">CS projects</a><h2>
+<h2><a href="https://kaylinli.github.io/journalism" class="link">Journalism</a><h2>
 
 <h3>Connect with me on:</h3>
 <h4>LinkedIn: 
