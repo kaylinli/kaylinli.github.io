@@ -14,8 +14,9 @@ title: Welcome!
     .page-link{
         background-color: white
         outline: black
-        font-size: 18em
+        font-size: 24em
         padding: 5em
+        margins:5em
         display: inline-block;
         margin-bottom: 1rem;
         /* #157878 = rgba(21, 120, 120*/
@@ -35,6 +36,7 @@ Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studyi
 <!-- <br> -->
 <!-- <button onclick="window.location.href='/journalism'" class="link">Journalism</button> -->
 <a href="https://kaylinli.github.io/projects" class="page-link">CS projects</a>
+<br />
 <a href="https://kaylinli.github.io/journalism" class="page-link">Journalism</a>
 
 <h3>Connect with me on:</h3>
