@@ -18,7 +18,7 @@ title: Welcome!
         padding: 5em
         margins:5em
         display: inline-block;
-        margin-bottom: 1rem;
+        /* margin-bottom: 1rem; */
         /* #157878 = rgba(21, 120, 120*/
         color: rgba(21, 120, 120, 0.7);
         /* background-color: rgba(255, 255, 255, 0.08); */
@@ -36,6 +36,7 @@ Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studyi
 <!-- <br> -->
 <!-- <button onclick="window.location.href='/journalism'" class="link">Journalism</button> -->
 <a href="https://kaylinli.github.io/projects" class="page-link">CS projects</a>
+<br />
 <br />
 <a href="https://kaylinli.github.io/journalism" class="page-link">Journalism</a>
 
