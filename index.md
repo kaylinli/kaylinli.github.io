@@ -11,11 +11,11 @@ title: Welcome!
 
     /* based on btn class from Jekyll Cayman */
     /* https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss */
-    .link{
+    .page-link{
         background-color: white
         outline: black
         font-size: 18em
-        padding: 2em
+        padding: 5em
         display: inline-block;
         margin-bottom: 1rem;
         /* #157878 = rgba(21, 120, 120*/
@@ -34,8 +34,8 @@ Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studyi
 <!-- <button onclick="window.location.href='/projects'" class="link">Computer Science projects</button> -->
 <!-- <br> -->
 <!-- <button onclick="window.location.href='/journalism'" class="link">Journalism</button> -->
-<h2><a href="https://kaylinli.github.io/projects" class="link">CS projects</a><h2>
-<h2><a href="https://kaylinli.github.io/journalism" class="link">Journalism</a><h2>
+<a href="https://kaylinli.github.io/projects" class="page-link">CS projects</a>
+<a href="https://kaylinli.github.io/journalism" class="page-link">Journalism</a>
 
 <h3>Connect with me on:</h3>
 <h4>LinkedIn: 
