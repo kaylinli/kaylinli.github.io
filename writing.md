@@ -65,6 +65,8 @@ permalink: /writing/
 	
 </style>
 
+<body>
+
 <h2>Writing</h2>
 
 <p>Here are some of the articles I've written as a staff member of Lynbrook High School's newspaper <i>the Epic</i>. Note: not all of the graphics in this section are made by me.</p>
@@ -349,3 +351,4 @@ permalink: /writing/
 
 <!-- Load our React component. -->
 <script src="gridEntry.js"></script>
+</body>
