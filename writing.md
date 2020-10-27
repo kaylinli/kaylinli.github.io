@@ -73,6 +73,10 @@ permalink: /writing/
 
 <section class="grid">
 
+	<div id="entry-container">
+		<p>Hello</p>
+	</div>
+
 	<div class="entry">
 		<div class="image">
 			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
@@ -337,3 +341,11 @@ permalink: /writing/
 	</div>
 	
 </section>
+
+<!-- Load React. -->
+<!-- Note: when deploying, replace "development.js" with "production.min.js". -->
+<script src="https://unpkg.com/react@17/umd/react.development.js" crossorigin></script>
+<script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js" crossorigin></script>
+
+<!-- Load our React component. -->
+<script src="gridEntry.js"></script>
