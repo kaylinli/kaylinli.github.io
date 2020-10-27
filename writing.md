@@ -76,7 +76,7 @@ permalink: /writing/
 <section class="grid">
 
 	<div id="entry-container">
-		<p>Hello</p>
+		<button>Hello</button>
 	</div>
 
 	<div class="entry">
