@@ -21,5 +21,13 @@ class GridEntry extends React.Component {
   }
 }
 
-const domContainer = document.querySelector('#entry-container');
-ReactDOM.render(e(GridEntry), domContainer);
+// Find all DOM containers, and render Like buttons into them.
+document.querySelectorAll('.entry-container')
+  .forEach(domContainer => {
+    // Read the comment ID from a data-* attribute.
+    const commentID = parseInt(domContainer.dataset.commentid, 10);
+    ReactDOM.render(
+      e(GridEntry, { commentID: commentID }),
+      domContainer
+    );
+  });

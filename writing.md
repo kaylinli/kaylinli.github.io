@@ -75,8 +75,10 @@ permalink: /writing/
 
 <section class="grid">
 
-	<div id="entry-container">
-		<button>Hello</button>
+	<div id="entry-container" data-commentid="1">
+	</div>
+
+	<div id="entry-container" data-commentid="2">
 	</div>
 
 	<div class="entry">
