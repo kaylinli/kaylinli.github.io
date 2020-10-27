@@ -6,10 +6,6 @@ title: Welcome!
 
 Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studying Statistics and Data Science, and other computer science related things. Here you'll find a little more about me, and some of the work that I've done.
 
-<!-- https://stackoverflow.com/questions/2906582/how-to-create-an-html-button-that-acts-like-a-link -->
-<!-- <button onclick="window.location.href='/projects'" class="link">Computer Science projects</button> -->
-<!-- <br> -->
-<!-- <button onclick="window.location.href='/journalism'" class="link">Journalism</button> -->
 <a href="https://kaylinli.github.io/projects" class="page-link">CS projects</a>
 <br />
 <br />
