@@ -4,7 +4,7 @@ title: "Journalism"
 permalink: /journalism/
 ---
 <head>
-	<link rel="stylesheet" type="text/css" href="/page.css">
+	<link rel="stylesheet" type="text/css" href="page.css">
 </head>
 <body>
 	<h2>Journalism</h2>
@@ -15,6 +15,6 @@ permalink: /journalism/
 		<a href="https://kaylinli.github.io/writing">Writing</a>
 	</p>
 	<p class="page-link">
-		<a href="https://kaylinli.github.io/media" class="page-link">Media</a>
+		<a href="https://kaylinli.github.io/media">Media</a>
 	</p>
 </body>
