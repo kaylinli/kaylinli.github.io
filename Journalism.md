@@ -4,7 +4,7 @@ title: "Journalism"
 permalink: /journalism/
 ---
 <head>
-	<link rel="stylesheet" type="text/css" href="page.css">
+	<link rel="stylesheet" type="text/css" href="/page.css">
 </head>
 <body>
 	<h2>Journalism</h2>
