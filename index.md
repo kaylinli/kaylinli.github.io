@@ -3,10 +3,10 @@ layout: default
 title: Welcome!
 ---
 <head>
-    <link rel="stylesheet" href="page.css">
+    <link rel="stylesheet" type="text/css" href="page.css">
 </head>
 <body>
-Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studying Statistics and Data Science, and other computer science related things. Here you'll find a little more about me, and some of the work that I've done.
+    <p>Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studying Statistics and Data Science, and other computer science related things. Here you'll find a little more about me, and some of the work that I've done.</p>
 
     <a href="https://kaylinli.github.io/projects" class="page-link">CS projects</a>
     <br />
@@ -26,5 +26,6 @@ Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studyi
     <h4>Devpost: 
     <a href="https://devpost.com/kaylinli"> 
         <img src="https://devpost-challengepost.netdna-ssl.com/assets/reimagine2/devpost-logo-646bdf6ac6663230947a952f8d354cad.svg" alt="https://devpost.com/kaylinli" width="60">
-    </a></h4>
+    </a>
+    </h4>
 </body>

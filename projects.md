@@ -3,7 +3,7 @@ layout: page
 title: Coding Projects
 permalink: /projects/
 ---
-<link rel="stylesheet" href="page.css">
+<link rel="stylesheet" type="text/css" href="page.css">
 
 <h2>CS projects</h2>
 
