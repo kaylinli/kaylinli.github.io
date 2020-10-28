@@ -12,6 +12,10 @@ permalink: /journalism/
 	<a href="https://lhsepic.com/">lhsepic.com</a>
 
 	
-	<a href="https://kaylinli.github.io/writing" class="page-link">Writing</a>
-	<a href="https://kaylinli.github.io/media" class="page-link">Media</a>
+	<div class="page-link">
+		<a href="https://kaylinli.github.io/writing">Writing</a>
+	</div>
+	<div class="page-link">
+		<a href="https://kaylinli.github.io/media" class="page-link">Media</a>
+	</div>
 </body>
