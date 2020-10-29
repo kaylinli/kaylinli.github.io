@@ -3,6 +3,7 @@ layout: page
 title: "Journalism"
 permalink: /journalism/
 ---
+<meta charset="UTF-8">
 <head>
 	<link rel="stylesheet" type="text/css" href="page.css">
 </head>
