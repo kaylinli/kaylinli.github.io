@@ -4,7 +4,7 @@ title: Welcome!
 ---
 <meta charset="UTF-8">
 <head>
-    <link rel="stylesheet" type="text/css" href="page.css">
+    <!-- <link rel="stylesheet" type="text/css" href="page.css"> -->
     <style>
         /* based on btn class from Jekyll Cayman */
         /* https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss */
