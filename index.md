@@ -30,10 +30,10 @@ title: Welcome!
 <body>
     <p>Hello! I'm Kaylin. I'm currently a freshman at Carnegie Mellon University studying Statistics and Data Science, and other computer science related things. Here you'll find a little more about me, and some of the work that I've done.</p>
 
-    <a href="https://kaylinli.github.io/projects">CS projects</a>
+    <a href="https://kaylinli.github.io/projects" class="page-link">CS projects</a>
     <br />
     <br />
-    <a href="https://kaylinli.github.io/journalism">Journalism</a>
+    <a href="https://kaylinli.github.io/journalism" class="page-link">Journalism</a>
 
     <h3>Connect with me on:</h3>
     <h4>LinkedIn: 
