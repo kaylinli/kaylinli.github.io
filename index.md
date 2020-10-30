@@ -11,7 +11,7 @@ title: Welcome!
             outline: black;
             font-size: 24em;
             padding: 5em;
-            margin: 5em;
+            margins: 5em;
             display: inline-block;
             margin-bottom: 1rem;
             color: rgba(21, 120, 120, 0.7);
