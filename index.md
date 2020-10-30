@@ -6,8 +6,6 @@ title: Welcome!
 <head>
     <!-- <link rel="stylesheet" type="text/css" href="page.css"> -->
     <style>
-        /* based on btn class from Jekyll Cayman */
-        /* https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss */
         .page-link{
             background-color: white;
             outline: black;
@@ -16,9 +14,7 @@ title: Welcome!
             margin: 5em;
             display: inline-block;
             margin-bottom: 1rem;
-            /* #157878 = rgba(21, 120, 120*/
             color: rgba(21, 120, 120, 0.7);
-            /* background-color: rgba(255, 255, 255, 0.08); */
             border-color: rgba(21, 120, 120, 0.7);
             border-style: solid;
             border-width: 1px;
