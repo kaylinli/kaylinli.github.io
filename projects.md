@@ -3,8 +3,9 @@ layout: page
 title: Coding Projects
 permalink: /projects/
 ---
-<meta charset="UTF-8">
-<link rel="stylesheet" type="text/css" href="page.css">
+<head>
+	<link rel="stylesheet" type="text/css" href="page.css">
+</head>
 
 <h2>CS projects</h2>
 
