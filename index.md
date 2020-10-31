@@ -2,7 +2,6 @@
 layout: default
 title: Welcome!
 ---
-<meta charset="UTF-8">
 <head>
     <link rel="stylesheet" type="text/css" href="page.css">
 </head>
