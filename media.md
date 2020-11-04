@@ -8,6 +8,7 @@ permalink: /media/
 	<link rel="stylesheet" type="text/css" href="page.css">
 </head>
 
+<body>
 <h2>Media</h2>
 
 <p>Here are some of my photos, graphics, and layouts I've worked on for <a href="www.lhsepic.com"><i>the Epic</i></a>.
@@ -235,4 +236,5 @@ permalink: /media/
 
 	
 </section>
+</body>
 
