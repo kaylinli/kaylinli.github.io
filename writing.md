@@ -71,12 +71,6 @@ permalink: /writing/
 
 <section class="grid">
 
-	<div id="entry-container" data-commentid="1">
-	</div>
-
-	<div id="entry-container" data-commentid="2">
-	</div>
-
 	<div class="entry">
 		<div class="image">
 			<a href="https://lhsepic.com/7792/news/senior-graduation-goes-virtual/">
