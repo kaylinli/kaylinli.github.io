@@ -6,22 +6,32 @@
 
 /* based on btn class from Jekyll Cayman */
 /* https://github.com/pages-themes/cayman/blob/master/_sass/jekyll-theme-cayman.scss */
-.page-link{
-    background-color: white;
+
+.page-link {
+    color: rgb(255, 255, 255);
+    background-color: rgba(21, 120, 120, 0.3);
     outline: black;
     font-size: xx-large;
     display: inline-block;
+    text-align: center;
     padding: 0.5em 1em 0.5em 1em;
     width: 49%;
     margin: auto;
     text-align: center;
     /* margin-bottom: 1rem; */
     /* #157878 = rgba(21, 120, 120*/
-    color: rgba(21, 120, 120, 0.7);
-    border-color: rgba(21, 120, 120, 0.7);
+    
+    border-color: rgba(21, 120, 120, 0);
     border-style: solid;
     border-width: 1px;
     border-radius: 0.3rem;
+    /* transition: color 0.2s, background-color 0.2s, border-color 0.2s; */
+}
+
+.page-link:hover {
+    background-color: white;
+    color: rgba(21, 120, 120, 0.7);
+    border-color: rgba(21, 120, 120, 0.7);
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 }
 
