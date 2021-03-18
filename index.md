@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: main
 title: Welcome!
 ---
 <head>
@@ -10,7 +10,7 @@ title: Welcome!
 
     <div id="like_button_container"></div>
 
-    <a href="https://kaylinli.github.io/projects" class="page-link">CS projects</a> <a href="https://kaylinli.github.io/journalism" class="page-link">Journalism</a>
+    <h3><a href="/projects">CS projects</a> <a href="/journalism">Journalism</a></h3>
 
     <h3>Connect with me on:</h3>
     <h4>
