@@ -66,6 +66,25 @@ permalink: /projects/
 
 <section class="grid">
 
+	<entry-component>
+		<a slot="link" href="https://kaylinli.github.io/SentenceMosaicsWebsite/"></a>
+		<img slot="imagesrc" src="/img/sentencemosaicswebsite.png">
+		<span slot="headline">Sentence Mosaics website</span><br />
+		<span slot="description">Developed website</span>
+		<span slot="date" id="date">Sept 2020 - present</span></slot>
+	</entry-component>
+
+	<!-- <entry-component>
+		<a slot="link" href="https://kaylinli.github.io/SentenceMosaicsWebsite/">
+				<img src="/img/sentencemosaicswebsite.png">
+		</a>
+		<a slot="link" href="https://kaylinli.github.io/SentenceMosaicsWebsite/">
+			<span id="headline">Sentence Mosaics website</span><br />
+		</a>
+		<span slot="description">Developed website</span>
+		<span slot="date" id="date">Sept 2020 - present</span></slot>
+	</entry-component> -->
+
 	<div class="entry">
 		<div class="image">
 			<a href="https://kaylinli.github.io/SentenceMosaicsWebsite/">
@@ -75,7 +94,7 @@ permalink: /projects/
 		<div class="text">
 			<a href="https://kaylinli.github.io/SentenceMosaicsWebsite/">
 				<span id="headline">Sentence Mosaics website</span><br />
-				<span>Developed website</span><br />
+				<span>Developed</span><br />
 			</a>
 			<span id="date">Sept 2020 - present</span><br />
 		</div>
