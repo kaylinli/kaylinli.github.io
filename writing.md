@@ -65,6 +65,17 @@ permalink: /writing/
 
 <h2>Writing</h2>
 
+<p>Most of my technical writing experience comes from past internships, coursework, and student journalism.</p>
+
+<section class="grid">
+
+</section>
+
+
+<h3>Journalism</h3>
+
+
+
 <p>Here are some of the articles I've written as a staff member of Lynbrook High School's newspaper <i>the Epic</i>. Note: not all of the graphics in this section are made by me.</p>
 
 <h3>2019-2020 School Year</h3><br />
